@@ -1,0 +1,52 @@
+{
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "Conversion tracking and attribution platforms for performance marketers (server-side tracking, Conversion API feeds to ad platforms)",
+  "you": "AnyTrack",
+  "competitors": [
+    "Hyros",
+    "RedTrack",
+    "Voluum",
+    "ClickMagick",
+    "Triple Whale",
+    "Northbeam"
+  ],
+  "vendors": {
+    "Hyros": "\\bhyros\\b",
+    "RedTrack": "\\bredtrack\\b",
+    "Voluum": "\\bvoluum\\b",
+    "ClickMagick": "\\bclickmagick\\b",
+    "Triple Whale": "\\btriple ?whale\\b",
+    "Northbeam": "\\bnorthbeam\\b",
+    "AnyTrack": "\\banytrack\\b",
+    "Wicked Reports": "wicked reports",
+    "Everflow": "\\beverflow\\b",
+    "AppsFlyer": "appsflyer",
+    "Adjust": "\\badjust\\b",
+    "Rockerbox": "rockerbox",
+    "Attribution App": "attribution\\.app|attributionapp",
+    "Segment": "\\bsegment\\b(?! ?of)",
+    "Branch": "\\bbranch\\.io\\b"
+  },
+  "audiences": [
+    ["Server-side tracking", "server.?side track"],
+    ["Conversion API integration", "conversion api|\\bcapi\\b"],
+    ["Ad blockers and iOS tracking loss", "ad.?blocker|ios 14|app tracking transparency|itp\\b"],
+    ["Attribution modeling", "attribution model|multi.?touch attribution|\\bmta\\b"],
+    ["Affiliate marketing tracking", "affiliate (marketing|tracker|network)"],
+    ["Facebook/Meta ads tracking", "facebook ads|meta ads|meta capi"],
+    ["Google Ads tracking", "google ads|enhanced conversions|google click id|\\bgclid\\b"],
+    ["TikTok ads tracking", "tiktok ads|tiktok events api"],
+    ["Shopify integration", "\\bshopify\\b"],
+    ["Deduplication and data accuracy", "dedup|duplicate conversion|data accuracy"],
+    ["Pixel and cookie tracking", "\\bpixel\\b|first.?party cookie|cookieless"],
+    ["Comparisons and alternatives", "alternative|vs\\.|comparison"],
+    ["Pricing and plans", "pricing|\\bplan(s)?\\b"],
+    ["Case studies and ROAS results", "case study|roas|return on ad spend"],
+    ["Setup and integration guides", "how to (set ?up|install|integrate)|integration guide"],
+    ["Lead generation tracking", "lead gen(eration)? track"],
+    ["E-commerce attribution", "ecommerce attribution|e-commerce attribution"],
+    ["Cross-domain tracking", "cross.?domain track"],
+    ["Product updates and releases", "product update|new feature|launch"],
+    ["Agency and media buyer use cases", "media buyer|ad agency|agencies"]
+  ]
+}
