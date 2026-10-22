@@ -1,0 +1,52 @@
+{
+ "weeks": [
+  {
+   "week": "2026-W43",
+   "date": "2026-10-22T03:03:30+00:00",
+   "sites": {
+    "AnyTrack": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 1042
+    },
+    "Hyros": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 137
+    },
+    "RedTrack": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 360
+    },
+    "Voluum": {
+     "new": 1,
+     "updated": 0,
+     "removed": 0,
+     "pages": 319
+    },
+    "ClickMagick": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Triple Whale": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 870
+    },
+    "Northbeam": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 205
+    }
+   }
+  }
+ ]
+}

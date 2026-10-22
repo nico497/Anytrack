@@ -1,0 +1,1333 @@
+{
+ "meta": {
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "Conversion tracking and attribution platforms for performance marketers (server-side tracking, Conversion API feeds to ad platforms)",
+  "you": "AnyTrack",
+  "generated": "2026-10-22T03:10:18+00:00",
+  "state_updated": "2026-10-22T03:03:30+00:00",
+  "repo": "nico497/Anytrack"
+ },
+ "types": [
+  [
+   "vs_you",
+   "Us vs. them"
+  ],
+  [
+   "alt",
+   "Alternatives"
+  ],
+  [
+   "switch",
+   "Switching and migration"
+  ],
+  [
+   "pricing",
+   "Rival pricing breakdowns"
+  ],
+  [
+   "vs_rivals",
+   "Rival vs. rival"
+  ],
+  [
+   "best",
+   "Best-of and roundups"
+  ],
+  [
+   "case",
+   "Case and customer stories"
+  ]
+ ],
+ "sites": [
+  {
+   "name": "AnyTrack",
+   "tracked": 1182,
+   "considered": 1042,
+   "own_pricing": "https://anytrack.io/pricing",
+   "hubs": []
+  },
+  {
+   "name": "Hyros",
+   "tracked": 137,
+   "considered": 137,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "RedTrack",
+   "tracked": 360,
+   "considered": 341,
+   "own_pricing": "https://www.redtrack.io/pricing/",
+   "hubs": [
+    "https://www.redtrack.io/customer-stories/"
+   ]
+  },
+  {
+   "name": "Voluum",
+   "tracked": 319,
+   "considered": 296,
+   "own_pricing": "https://voluum.com/pricing/",
+   "hubs": [
+    "https://voluum.com/case-studies/"
+   ]
+  },
+  {
+   "name": "ClickMagick",
+   "tracked": 0,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Triple Whale",
+   "tracked": 1052,
+   "considered": 868,
+   "own_pricing": "https://www.triplewhale.com/pricing",
+   "hubs": [
+    "https://www.triplewhale.com/case-studies"
+   ]
+  },
+  {
+   "name": "Northbeam",
+   "tracked": 205,
+   "considered": 205,
+   "own_pricing": "https://www.northbeam.io/pricing",
+   "hubs": [
+    "https://www.northbeam.io/customer-stories"
+   ]
+  }
+ ],
+ "vendors": [
+  "Hyros",
+  "RedTrack",
+  "Voluum",
+  "ClickMagick",
+  "Triple Whale",
+  "Northbeam",
+  "AnyTrack",
+  "Wicked Reports",
+  "Everflow",
+  "AppsFlyer",
+  "Adjust",
+  "Rockerbox",
+  "Attribution App",
+  "Segment",
+  "Branch"
+ ],
+ "excluded": {
+  "templated pages": 322,
+  "webinars, glossary, events and category pages": 44
+ },
+ "pages": [
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/clickmagick-alternative",
+   "path": "/clickmagick-alternative",
+   "type": "alt",
+   "targets": [
+    "ClickMagick"
+   ]
+  },
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/hyros-alternative",
+   "path": "/hyros-alternative",
+   "type": "alt",
+   "targets": [
+    "Hyros"
+   ]
+  },
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/northbeam-alternative",
+   "path": "/northbeam-alternative",
+   "type": "alt",
+   "targets": [
+    "Northbeam"
+   ]
+  },
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/redtrack-alternative",
+   "path": "/redtrack-alternative",
+   "type": "alt",
+   "targets": [
+    "RedTrack"
+   ]
+  },
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/triple-whale-alternative",
+   "path": "/triple-whale-alternative",
+   "type": "alt",
+   "targets": [
+    "Triple Whale"
+   ]
+  },
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/voluum-alternative",
+   "path": "/voluum-alternative",
+   "type": "alt",
+   "targets": [
+    "Voluum"
+   ]
+  },
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/wicked-reports-alternative",
+   "path": "/wicked-reports-alternative",
+   "type": "alt",
+   "targets": [
+    "Wicked Reports"
+   ]
+  },
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/blog/clickmagick-to-anytrack-migration",
+   "path": "/blog/clickmagick-to-anytrack-migration",
+   "type": "switch",
+   "targets": [
+    "ClickMagick"
+   ]
+  },
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/blog/tracking-a-content-blog-clickmagick-vs-anytrack",
+   "path": "/blog/tracking-a-content-blog-clickmagick-vs-anytrack",
+   "type": "vs_you",
+   "targets": [
+    "ClickMagick"
+   ]
+  },
+  {
+   "site": "Hyros",
+   "url": "https://hyros.com/hyros-vs-triple-whale",
+   "path": "/hyros-vs-triple-whale",
+   "type": "vs_you",
+   "targets": [
+    "Triple Whale"
+   ]
+  },
+  {
+   "site": "Hyros",
+   "url": "https://hyros.com/hyros-vs-triple-whale-old",
+   "path": "/hyros-vs-triple-whale-old",
+   "type": "vs_you",
+   "targets": [
+    "Triple Whale"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/best-clickmagick-alternatives/",
+   "path": "/blog/best-clickmagick-alternatives",
+   "type": "alt",
+   "targets": [
+    "ClickMagick"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/best-hyros-alternatives/",
+   "path": "/blog/best-hyros-alternatives",
+   "type": "alt",
+   "targets": [
+    "Hyros"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/best-voluum-alternatives/",
+   "path": "/blog/best-voluum-alternatives",
+   "type": "alt",
+   "targets": [
+    "Voluum"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/best-wicked-reports-alternatives/",
+   "path": "/blog/best-wicked-reports-alternatives",
+   "type": "alt",
+   "targets": [
+    "Wicked Reports"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/triple-whale-alternatives/",
+   "path": "/blog/triple-whale-alternatives",
+   "type": "alt",
+   "targets": [
+    "Triple Whale"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/affiliate-program-management-with-use-of-partnership-portal-redtrack-case-study/",
+   "path": "/blog/affiliate-program-management-with-use-of-partnership-portal-redtrack-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/case-study-native-media-advertisement-monitoring-with-redtrack/",
+   "path": "/blog/case-study-native-media-advertisement-monitoring-with-redtrack",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/customer-story-by-adavice-driving-higher-cr-and-roi-with-redtrack-ad-tracker/",
+   "path": "/blog/customer-story-by-adavice-driving-higher-cr-and-roi-with-redtrack-ad-tracker",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/customer-story-how-ynot-media-makes-more-profitable-decisions-with-redtrack/",
+   "path": "/blog/customer-story-how-ynot-media-makes-more-profitable-decisions-with-redtrack",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/financer-scaling-with-redtrack-case-study/",
+   "path": "/blog/financer-scaling-with-redtrack-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/mobfolio-ad-agency-redtrack-case-study/",
+   "path": "/blog/mobfolio-ad-agency-redtrack-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/customer-stories/create-the-movement-ecom-agency/",
+   "path": "/customer-stories/create-the-movement-ecom-agency",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/customer-stories/nutrafix/",
+   "path": "/customer-stories/nutrafix",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/customer-stories/nutrafix-pt/",
+   "path": "/customer-stories/nutrafix-pt",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/customer-stories/quick-lead-search-arbitrage/",
+   "path": "/customer-stories/quick-lead-search-arbitrage",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/customer-stories/worify-ad-agency/",
+   "path": "/customer-stories/worify-ad-agency",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/customer-stories/xentraffic-media-buying-team/",
+   "path": "/customer-stories/xentraffic-media-buying-team",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/comparisons/redtrack-vs-anytrack/",
+   "path": "/comparisons/redtrack-vs-anytrack",
+   "type": "vs_you",
+   "targets": [
+    "AnyTrack"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/comparisons/redtrack-vs-clickmagick/",
+   "path": "/comparisons/redtrack-vs-clickmagick",
+   "type": "vs_you",
+   "targets": [
+    "ClickMagick"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/comparisons/redtrack-vs-everflow/",
+   "path": "/comparisons/redtrack-vs-everflow",
+   "type": "vs_you",
+   "targets": [
+    "Everflow"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/comparisons/redtrack-vs-hyros/",
+   "path": "/comparisons/redtrack-vs-hyros",
+   "type": "vs_you",
+   "targets": [
+    "Hyros"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/comparisons/redtrack-vs-triple-whale/",
+   "path": "/comparisons/redtrack-vs-triple-whale",
+   "type": "vs_you",
+   "targets": [
+    "Triple Whale"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/comparisons/redtrack-vs-voluum/",
+   "path": "/comparisons/redtrack-vs-voluum",
+   "type": "vs_you",
+   "targets": [
+    "Voluum"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/comparisons/redtrack-vs-wicked-reports/",
+   "path": "/comparisons/redtrack-vs-wicked-reports",
+   "type": "vs_you",
+   "targets": [
+    "Wicked Reports"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/lp2/compare/redtrack-vs-anytrack/",
+   "path": "/lp2/compare/redtrack-vs-anytrack",
+   "type": "vs_you",
+   "targets": [
+    "AnyTrack"
+   ]
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/lp2/compare/redtrack-vs-voluum/",
+   "path": "/lp2/compare/redtrack-vs-voluum",
+   "type": "vs_you",
+   "targets": [
+    "Voluum"
+   ]
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/6h-agency/",
+   "path": "/case-studies/6h-agency",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/acroud-media/",
+   "path": "/case-studies/acroud-media",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/adcash/",
+   "path": "/case-studies/adcash",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/adextrem/",
+   "path": "/case-studies/adextrem",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/adqub-optimization/",
+   "path": "/case-studies/adqub-optimization",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/affimedia/",
+   "path": "/case-studies/affimedia",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/affmore/",
+   "path": "/case-studies/affmore",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/ahmed-voluum-automizer/",
+   "path": "/case-studies/ahmed-voluum-automizer",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/alugha/",
+   "path": "/case-studies/alugha",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/apptimus/",
+   "path": "/case-studies/apptimus",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/best10scout-com/",
+   "path": "/case-studies/best10scout-com",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/betcomrade/",
+   "path": "/case-studies/betcomrade",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/bigger-picture/",
+   "path": "/case-studies/bigger-picture",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/bold-collective/",
+   "path": "/case-studies/bold-collective",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/clickspros/",
+   "path": "/case-studies/clickspros",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/digital-works-traffic-arbitrage/",
+   "path": "/case-studies/digital-works-traffic-arbitrage",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/dreamin/",
+   "path": "/case-studies/dreamin",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/fleetmarket-conversions/",
+   "path": "/case-studies/fleetmarket-conversions",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/gembet/",
+   "path": "/case-studies/gembet",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/gentoo-media/",
+   "path": "/case-studies/gentoo-media",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/growe/",
+   "path": "/case-studies/growe",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/heylocate/",
+   "path": "/case-studies/heylocate",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/hipto/",
+   "path": "/case-studies/hipto",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/ideaclan/",
+   "path": "/case-studies/ideaclan",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/innervate-marketing/",
+   "path": "/case-studies/innervate-marketing",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/irregular/",
+   "path": "/case-studies/irregular",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/jackpota/",
+   "path": "/case-studies/jackpota",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/james-prosper-ios15/",
+   "path": "/case-studies/james-prosper-ios15",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/jisy-marketing/",
+   "path": "/case-studies/jisy-marketing",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/kingbet/",
+   "path": "/case-studies/kingbet",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/leadnomics/",
+   "path": "/case-studies/leadnomics",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/leedia-google-ads/",
+   "path": "/case-studies/leedia-google-ads",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/leverage-media/",
+   "path": "/case-studies/leverage-media",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/mansion-igaming/",
+   "path": "/case-studies/mansion-igaming",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/maxbet/",
+   "path": "/case-studies/maxbet",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/mediagravy/",
+   "path": "/case-studies/mediagravy",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/medier/",
+   "path": "/case-studies/medier",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/megaperya/",
+   "path": "/case-studies/megaperya",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/mostbet/",
+   "path": "/case-studies/mostbet",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/mylead/",
+   "path": "/case-studies/mylead",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/p2ptech-sms-traffic/",
+   "path": "/case-studies/p2ptech-sms-traffic",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/pdic-voluum-everflow/",
+   "path": "/case-studies/pdic-voluum-everflow",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/pochod/",
+   "path": "/case-studies/pochod",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/point2web-facebook-revenue/",
+   "path": "/case-studies/point2web-facebook-revenue",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/revpanda/",
+   "path": "/case-studies/revpanda",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/roigen/",
+   "path": "/case-studies/roigen",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/tamhold-media/",
+   "path": "/case-studies/tamhold-media",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/tappx/",
+   "path": "/case-studies/tappx",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/vicious-marketing/",
+   "path": "/case-studies/vicious-marketing",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/websa/",
+   "path": "/case-studies/websa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/worify-afk/",
+   "path": "/case-studies/worify-afk",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/wpn-igaming/",
+   "path": "/case-studies/wpn-igaming",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/xentraffic/",
+   "path": "/case-studies/xentraffic",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/xevio/",
+   "path": "/case-studies/xevio",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/xevio-baidu-mediago/",
+   "path": "/case-studies/xevio-baidu-mediago",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/voluum-vs-hyros/",
+   "path": "/voluum-vs-hyros",
+   "type": "vs_you",
+   "targets": [
+    "Hyros"
+   ]
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/voluum-vs-redtrack/",
+   "path": "/voluum-vs-redtrack",
+   "type": "vs_you",
+   "targets": [
+    "RedTrack"
+   ]
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/blog/marquis-case-study",
+   "path": "/blog/marquis-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/blog/zox-sonar-case-study",
+   "path": "/blog/zox-sonar-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/adquadrant-case-study",
+   "path": "/case-studies/adquadrant-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/ampersand",
+   "path": "/case-studies/ampersand",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/attn-bones-coffee-company",
+   "path": "/case-studies/attn-bones-coffee-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/bedjet",
+   "path": "/case-studies/bedjet",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/brightland",
+   "path": "/case-studies/brightland",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/casadigi-media",
+   "path": "/case-studies/casadigi-media",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/chai-guys",
+   "path": "/case-studies/chai-guys",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/cozy-earth",
+   "path": "/case-studies/cozy-earth",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/create",
+   "path": "/case-studies/create",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/crep-protect",
+   "path": "/case-studies/crep-protect",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/dixxon-flannel-company",
+   "path": "/case-studies/dixxon-flannel-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/doe-beauty",
+   "path": "/case-studies/doe-beauty",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/ecobio-boutique",
+   "path": "/case-studies/ecobio-boutique",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/ekster",
+   "path": "/case-studies/ekster",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/evestar",
+   "path": "/case-studies/evestar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/gorilla-mind",
+   "path": "/case-studies/gorilla-mind",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/hat-club",
+   "path": "/case-studies/hat-club",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/hatclub-cdv",
+   "path": "/case-studies/hatclub-cdv",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/hellobello",
+   "path": "/case-studies/hellobello",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/hype10",
+   "path": "/case-studies/hype10",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/inaessentials",
+   "path": "/case-studies/inaessentials",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/lskd",
+   "path": "/case-studies/lskd",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/milk-bar",
+   "path": "/case-studies/milk-bar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/modifly",
+   "path": "/case-studies/modifly",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/obvi",
+   "path": "/case-studies/obvi",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/ogee",
+   "path": "/case-studies/ogee",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/ohsnap",
+   "path": "/case-studies/ohsnap",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/origin",
+   "path": "/case-studies/origin",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/origin-moby-2",
+   "path": "/case-studies/origin-moby-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/outcast",
+   "path": "/case-studies/outcast",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/paw-com",
+   "path": "/case-studies/paw-com",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/porter-media",
+   "path": "/case-studies/porter-media",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/portland-leather-goods",
+   "path": "/case-studies/portland-leather-goods",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/rsn8-media-talentless",
+   "path": "/case-studies/rsn8-media-talentless",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/sferra-fine-linens",
+   "path": "/case-studies/sferra-fine-linens",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/shine-on",
+   "path": "/case-studies/shine-on",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/shopanova",
+   "path": "/case-studies/shopanova",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/simba-sleep",
+   "path": "/case-studies/simba-sleep",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/soar-with-us",
+   "path": "/case-studies/soar-with-us",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/solacebands",
+   "path": "/case-studies/solacebands",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/travelpro",
+   "path": "/case-studies/travelpro",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/trueclassic-realeyes",
+   "path": "/case-studies/trueclassic-realeyes",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/tubby-todd-attn-agency",
+   "path": "/case-studies/tubby-todd-attn-agency",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/underoutfit",
+   "path": "/case-studies/underoutfit",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/whitelabeled",
+   "path": "/case-studies/whitelabeled",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/whitelabeled-moby-media-buyer",
+   "path": "/case-studies/whitelabeled-moby-media-buyer",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+   "path": "/case-studies/yse-beauty",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/blog/triple-whale-vs-northbeam",
+   "path": "/blog/triple-whale-vs-northbeam",
+   "type": "vs_you",
+   "targets": [
+    "Northbeam"
+   ]
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/airoasis-ads-by-cory",
+   "path": "/customer-stories/airoasis-ads-by-cory",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/applovin",
+   "path": "/customer-stories/applovin",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/blindster-vibe-darlington",
+   "path": "/customer-stories/blindster-vibe-darlington",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/dr-squatch",
+   "path": "/customer-stories/dr-squatch",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/gardyn",
+   "path": "/customer-stories/gardyn",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/grayvault-and-shearcomfort",
+   "path": "/customer-stories/grayvault-and-shearcomfort",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/gruns",
+   "path": "/customer-stories/gruns",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/hexclad",
+   "path": "/customer-stories/hexclad",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/kitsch",
+   "path": "/customer-stories/kitsch",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/kizik",
+   "path": "/customer-stories/kizik",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/olukai-tiktok",
+   "path": "/customer-stories/olukai-tiktok",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/omnilux",
+   "path": "/customer-stories/omnilux",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/petmeds",
+   "path": "/customer-stories/petmeds",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/prospect-knight-mac-duggal",
+   "path": "/customer-stories/prospect-knight-mac-duggal",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/the-oodie",
+   "path": "/customer-stories/the-oodie",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/the-ridge",
+   "path": "/customer-stories/the-ridge",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/tiktok-cdv",
+   "path": "/customer-stories/tiktok-cdv",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/timex",
+   "path": "/customer-stories/timex",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/tubescience-kitsch",
+   "path": "/customer-stories/tubescience-kitsch",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/tumble",
+   "path": "/customer-stories/tumble",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/customer-stories/vessi-meta",
+   "path": "/customer-stories/vessi-meta",
+   "type": "case",
+   "targets": []
+  }
+ ]
+}
