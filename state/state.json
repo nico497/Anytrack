@@ -17052,22 +17052,35 @@
   "redtrack.io/help": {
    "site": "RedTrack",
    "url": "https://www.redtrack.io/help/",
-   "title": "Help",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-09-11T00:00:00+00:00",
    "lastmod": "2026-09-11T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": false,
+    "type": "landing",
+    "stage": "customers",
+    "topic": "RedTrack help documentation",
+    "search": "",
+    "why": "Supports existing users with setup guides and troubleshooting resources."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "44690b387042fa8a",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "unknown",
+   "event": "2026-09-11T00:00:00+00:00"
   },
   "redtrack.io/industry-insights": {
    "site": "RedTrack",
    "url": "https://www.redtrack.io/industry-insights/",
    "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-10-19T00:00:00+00:00",
-   "lastmod": "2026-10-19T00:00:00+00:00",
+   "lastmod": "2026-10-23T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": true,
@@ -17081,12 +17094,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "8965d3e851c06afc",
-   "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "unknown",
-   "event": "2026-10-19T00:00:00+00:00",
+   "fp": "a846f1f760c59ce2",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-10-26T13:04:56+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/lm-orders-lost": {
    "site": "RedTrack",
@@ -17171,7 +17185,7 @@
    "url": "https://www.redtrack.io/pricing/",
    "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-10-20T00:00:00+00:00",
-   "lastmod": "2026-10-20T00:00:00+00:00",
+   "lastmod": "2026-10-22T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": false,
@@ -17185,12 +17199,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "9ec173621cbe19ce",
-   "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "unknown",
-   "event": "2026-10-20T00:00:00+00:00",
+   "fp": "87490f21b1855a9b",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-10-26T13:04:56+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/privacy-policy": {
    "site": "RedTrack",
@@ -17885,14 +17900,20 @@
    "site": "RedTrack",
    "url": "https://www.redtrack.io/events/aleph-microsoft-ads-webinar/",
    "title": "Aleph microsoft ads webinar",
-   "date": "2026-07-16T00:00:00+00:00",
-   "lastmod": "2026-07-16T00:00:00+00:00",
+   "date": "2026-10-23T00:00:00+00:00",
+   "lastmod": "2026-10-23T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "718c334aa82f9ef9",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "unknown",
+   "event": "2026-10-23T00:00:00+00:00"
   },
   "redtrack.io/events/digital-marketing-europe-2026-lisbon": {
    "site": "RedTrack",
@@ -17964,7 +17985,7 @@
    "url": "https://www.redtrack.io/events/",
    "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-10-01T00:00:00+00:00",
-   "lastmod": "2026-10-01T00:00:00+00:00",
+   "lastmod": "2026-10-23T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": false,
@@ -17978,12 +17999,13 @@
    "prog": null,
    "pub": "2026-11-05T00:00:00+00:00",
    "mod": null,
-   "fp": "15dc750c7cef57b1",
-   "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "unknown",
-   "event": "2026-10-01T00:00:00+00:00",
+   "fp": "31f6f8856112fa79",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-10-26T13:04:56+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/events/leadscon-las-vegas-2026": {
    "site": "RedTrack",
@@ -18002,21 +18024,27 @@
    "site": "RedTrack",
    "url": "https://www.redtrack.io/events/meta-opportunity-score-webinar/",
    "title": "Meta opportunity score webinar",
-   "date": "2026-06-29T00:00:00+00:00",
-   "lastmod": "2026-06-29T00:00:00+00:00",
+   "date": "2026-10-23T00:00:00+00:00",
+   "lastmod": "2026-10-23T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "b31c2c4cbc180daf",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "unknown",
+   "event": "2026-10-23T00:00:00+00:00"
   },
   "redtrack.io/events/orbio-d2c-affiliate-scaling-webinar": {
    "site": "RedTrack",
    "url": "https://www.redtrack.io/events/orbio-d2c-affiliate-scaling-webinar/",
    "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-10-01T00:00:00+00:00",
-   "lastmod": "2026-10-01T00:00:00+00:00",
+   "lastmod": "2026-10-23T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": true,
@@ -18030,19 +18058,20 @@
    "prog": null,
    "pub": "2026-09-29T00:00:00+00:00",
    "mod": null,
-   "fp": "62bac0389e14a4e9",
-   "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "new",
-   "event": "2026-09-29T00:00:00+00:00",
+   "fp": "1aa75ccbda7b45bb",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-10-26T13:04:56+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/events/revcontent-traffic-diversification-webinar": {
    "site": "RedTrack",
    "url": "https://www.redtrack.io/events/revcontent-traffic-diversification-webinar/",
    "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-09-21T00:00:00+00:00",
-   "lastmod": "2026-09-21T00:00:00+00:00",
+   "lastmod": "2026-10-23T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": true,
@@ -18056,25 +18085,39 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "8bd12010e3607b0c",
-   "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "unknown",
-   "event": "2026-09-21T00:00:00+00:00",
+   "fp": "b0c062d7a35356f6",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-10-26T13:04:56+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/events/snapchat-growth-channel-webinar-2026": {
    "site": "RedTrack",
    "url": "https://www.redtrack.io/events/snapchat-growth-channel-webinar-2026/",
-   "title": "Snapchat growth channel webinar 2026",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-09-04T00:00:00+00:00",
-   "lastmod": "2026-09-04T00:00:00+00:00",
+   "lastmod": "2026-10-23T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "Snapchat ads performance marketing tracking",
+    "search": "Snapchat ads for performance marketers",
+    "why": "Positions RedTrack as expert in cookieless tracking for Snapchat growth channel adoption."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-09-03T00:00:00+00:00",
+   "mod": null,
+   "fp": "f3428590cc0d38c6",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "unknown",
+   "event": "2026-09-03T00:00:00+00:00"
   },
   "redtrack.io/for-affiliates/ad-tracking": {
    "site": "RedTrack",
@@ -20047,7 +20090,7 @@
    "mod": null,
    "fp": "4648140b9052aeff",
    "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "event": "2026-09-08T09:25:17+00:00",
    "bulk_pub": false,
    "bulk_mod": false
@@ -22031,15 +22074,28 @@
   "redtrack.io/blog/full-guide-to-conversion-path-analysis": {
    "site": "RedTrack",
    "url": "https://www.redtrack.io/blog/full-guide-to-conversion-path-analysis/",
-   "title": "Full guide to conversion path analysis",
+   "title": "Conversion Path Analysis: A Complete Guide for Modern Performance Marketers",
    "date": "2026-09-08T09:25:17+00:00",
    "lastmod": "2026-09-08T09:25:17+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Conversion path analysis guide",
+    "search": "conversion path analysis how to",
+    "why": "Educates performance marketers about conversion paths to build authority and trust."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-07-10T08:31:58+00:00",
+   "mod": "2026-09-08T09:25:17+00:00",
+   "fp": "1b47f726f09c5edc",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-09-08T09:25:17+00:00"
   },
   "redtrack.io/blog/best-ai-agents-for-ecommerce": {
    "site": "RedTrack",
@@ -29402,15 +29458,28 @@
   "triplewhale.com/blog/agentic-ai-vs-traditional-automation": {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/agentic-ai-vs-traditional-automation",
-   "title": "Agentic ai vs traditional automation",
+   "title": "Agentic AI vs. Traditional Automation: What It Means for Ecommerce Brands",
    "date": "2026-09-03T13:59:46+00:00",
    "lastmod": "2026-09-03T13:59:46+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "agentic AI versus traditional automation",
+    "search": "agentic AI versus traditional automation ecommerce",
+    "why": "Positions Moby AI as solution for context-aware decisions beyond static rules."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-08-27T17:48:38+00:00",
+   "mod": "2026-08-27T17:48:38+00:00",
+   "fp": "f79ec8e67b83be50",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "unknown",
+   "event": "2026-08-27T17:48:38+00:00"
   },
   "triplewhale.com/blog/agentic-workflows": {
    "site": "Triple Whale",
@@ -29818,15 +29887,28 @@
   "triplewhale.com/blog/amazon-benchmarks": {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/amazon-benchmarks",
-   "title": "Amazon benchmarks",
+   "title": "Amazon Ads Benchmarks by Industry (2026) | Triple Whale",
    "date": "2026-09-03T13:59:46+00:00",
    "lastmod": "2026-09-03T13:59:46+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "learning",
+    "topic": "Amazon Ads performance benchmarks by industry",
+    "search": "Amazon Ads benchmarks 2026 CPA ROAS CVR",
+    "why": "Establish expertise in ecommerce performance data; attract early-stage marketers planning Amazon campaigns."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-03-24T16:18:55+00:00",
+   "mod": "2026-08-20T00:00:00+00:00",
+   "fp": "199b706da2d1846a",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-08-20T00:00:00+00:00"
   },
   "triplewhale.com/blog/amazon-prime-day": {
    "site": "Triple Whale",
@@ -31378,15 +31460,28 @@
   "triplewhale.com/blog/deterministic-view-through-attribution": {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/deterministic-view-through-attribution",
-   "title": "Deterministic view through attribution",
+   "title": "What Is Deterministic View-Through Attribution?",
    "date": "2026-09-03T13:59:46+00:00",
    "lastmod": "2026-09-03T13:59:46+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Deterministic view-through attribution",
+    "search": "what is deterministic view-through attribution",
+    "why": "Educates marketers on capturing video's impact via Clicks & Deterministic Views model."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-06-19T14:24:24+00:00",
+   "mod": "2026-06-19T14:24:24+00:00",
+   "fp": "3777ec272493439f",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "unknown",
+   "event": "2026-06-19T14:24:24+00:00"
   },
   "triplewhale.com/blog/diagnosing-creative-failure": {
    "site": "Triple Whale",
@@ -31651,15 +31746,28 @@
   "triplewhale.com/blog/ecommerce-benchmarks": {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/ecommerce-benchmarks",
-   "title": "Ecommerce benchmarks",
+   "title": "Ecommerce Benchmarks 2026: Key Metrics & Industry Data",
    "date": "2026-09-03T13:59:46+00:00",
    "lastmod": "2026-09-03T13:59:46+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "learning",
+    "topic": "Ecommerce benchmarks and KPI metrics",
+    "search": "ecommerce benchmarks conversion rate 2026",
+    "why": "Establishes Triple Whale as data authority; attracts early-stage marketers researching their performance."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-02-03T16:08:05+00:00",
+   "mod": "2026-08-21T00:00:00+00:00",
+   "fp": "4aa116dc9e9b4155",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-08-21T00:00:00+00:00"
   },
   "triplewhale.com/blog/ecommerce-best-practices": {
    "site": "Triple Whale",
@@ -31703,15 +31811,28 @@
   "triplewhale.com/blog/ecommerce-dashboard": {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/ecommerce-dashboard",
-   "title": "Ecommerce dashboard",
+   "title": "Ecommerce Dashboard: Benefits, Setup, and What to Track",
    "date": "2026-09-03T13:59:46+00:00",
    "lastmod": "2026-09-03T13:59:46+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "ecommerce dashboard setup and benefits",
+    "search": "how to set up ecommerce dashboard",
+    "why": "Attracts ecommerce owners learning about dashboards before considering solutions."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2022-12-06T16:06:15+00:00",
+   "mod": "2022-12-08T00:00:00+00:00",
+   "fp": "c8efd49260817626",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "unknown",
+   "event": "2022-12-06T16:06:15+00:00"
   },
   "triplewhale.com/blog/ecommerce-influencers": {
    "site": "Triple Whale",
@@ -32431,15 +32552,28 @@
   "triplewhale.com/blog/google-ads-benchmarks": {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/google-ads-benchmarks",
-   "title": "Google ads benchmarks",
+   "title": "Google Ads Benchmarks by Industry",
    "date": "2026-09-03T13:59:46+00:00",
    "lastmod": "2026-09-03T13:59:46+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "learning",
+    "topic": "Google Ads benchmarks by industry",
+    "search": "Google Ads benchmarks by industry 2026",
+    "why": "Establishes thought leadership with original data; attracts performance marketers researching ad platform performance."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2024-11-11T22:25:44+00:00",
+   "mod": "2026-08-20T00:00:00+00:00",
+   "fp": "622f26935e36ab1f",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-08-20T00:00:00+00:00"
   },
   "triplewhale.com/blog/google-ads-black-friday": {
    "site": "Triple Whale",
@@ -34004,15 +34138,28 @@
   "triplewhale.com/blog/moby-ai-vs-generic-ai": {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/moby-ai-vs-generic-ai",
-   "title": "Moby ai vs generic ai",
+   "title": "Moby AI vs Generic AI: A Comparison for Triple Whale Users",
    "date": "2026-09-03T13:59:46+00:00",
    "lastmod": "2026-09-03T13:59:46+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "compare",
+    "stage": "comparing",
+    "topic": "Moby AI vs generic AI models",
+    "search": "Moby AI vs ChatGPT Claude Gemini comparison",
+    "why": "Positions Moby as specialist AI operator vs generic chatbots for ecommerce decision-makers."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-08-24T14:49:43+00:00",
+   "mod": "2026-09-24T00:00:00+00:00",
+   "fp": "80d6bdc1970669b9",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-09-24T00:00:00+00:00"
   },
   "triplewhale.com/blog/moby-ecommerce": {
    "site": "Triple Whale",
@@ -35772,15 +35919,28 @@
   "triplewhale.com/blog/tiktok-benchmarks": {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/tiktok-benchmarks",
-   "title": "Tiktok benchmarks",
+   "title": "TikTok Ads Benchmarks by Industry (2025) | Triple Whale",
    "date": "2026-09-03T13:59:46+00:00",
    "lastmod": "2026-09-03T13:59:46+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "learning",
+    "topic": "TikTok ad performance benchmarks",
+    "search": "TikTok ads benchmarks by industry 2025",
+    "why": "Establishes Triple Whale as data authority for TikTok performance metrics and conversion tracking insights."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-03-24T15:06:10+00:00",
+   "mod": "2026-08-20T00:00:00+00:00",
+   "fp": "bc62b8c80c0341b1",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-08-20T00:00:00+00:00"
   },
   "triplewhale.com/blog/tiktok-bfcm-2025": {
    "site": "Triple Whale",
@@ -36115,7 +36275,7 @@
    "mod": "2026-09-08T12:22:08+00:00",
    "fp": "845bb057a221bcb3",
    "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "event": "2026-09-08T12:22:08+00:00",
    "bulk_pub": false,
    "bulk_mod": false
@@ -36180,7 +36340,7 @@
    "mod": "2026-09-08T12:56:40+00:00",
    "fp": "21c4bbfa0c30a84c",
    "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "event": "2026-09-08T12:56:40+00:00",
    "bulk_pub": false,
    "bulk_mod": false
@@ -36617,15 +36777,28 @@
   "triplewhale.com/blog/yise-beauty-brand-molly-sims": {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/yise-beauty-brand-molly-sims",
-   "title": "Yise beauty brand molly sims",
+   "title": "Behind the Brand: YISE Beauty with Molly Sims | A Whalies Event",
    "date": "2026-09-03T13:59:46+00:00",
    "lastmod": "2026-09-03T13:59:46+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "customers",
+    "topic": "Beauty brand building and growth strategy",
+    "search": "how to build successful beauty brand",
+    "why": "Showcases Triple Whale as tool used by successful DTC brands like YISE Beauty."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-08-25T13:10:51+00:00",
+   "mod": "2026-08-25T13:10:51+00:00",
+   "fp": "bb3a85af12c366b6",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "unknown",
+   "event": "2026-08-25T13:10:51+00:00"
   },
   "triplewhale.com/blog/yotpo-x-triple-whale": {
    "site": "Triple Whale",
@@ -41312,7 +41485,7 @@
    "url": "https://www.northbeam.io/links",
    "title": "Northbeam's Links",
    "date": "2026-09-30T13:52:02+00:00",
-   "lastmod": "2026-09-30T13:52:02+00:00",
+   "lastmod": "2026-10-22T21:40:48+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": false,
@@ -41326,12 +41499,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "2e4ab93ea996db55",
-   "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "unknown",
-   "event": "2026-09-30T13:52:02+00:00",
+   "fp": "edfb81dc64962274",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-10-26T13:04:56+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "northbeam.io/chat-with/peter": {
    "site": "Northbeam",
@@ -41403,7 +41577,7 @@
    "url": "https://www.northbeam.io/bryan",
    "title": "Bryan's Links",
    "date": "2026-09-03T18:13:50+00:00",
-   "lastmod": "2026-09-03T18:13:50+00:00",
+   "lastmod": "2026-10-22T21:41:29+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": false,
@@ -41417,12 +41591,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "a818129bed740d83",
-   "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "unknown",
-   "event": "2026-09-03T18:13:50+00:00",
+   "fp": "9998a0bc562abf2f",
+   "dates_checked": "2026-10-26T13:04:56+00:00",
+   "kind": "updated",
+   "event": "2026-10-26T13:04:56+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "northbeam.io/archive/subprocessors-jun-21-2024-update": {
    "site": "Northbeam",
