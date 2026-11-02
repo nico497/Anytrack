@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Conversion tracking and attribution platforms for performance marketers (server-side tracking, Conversion API feeds to ad platforms)",
   "you": "AnyTrack",
-  "generated": "2026-10-26T13:06:01+00:00",
+  "generated": "2026-11-02T15:56:16+00:00",
   "state_updated": "2026-10-22T03:03:30+00:00",
   "repo": "nico497/Anytrack"
  },
@@ -40,15 +40,15 @@
  "sites": [
   {
    "name": "AnyTrack",
-   "tracked": 1182,
-   "considered": 1042,
+   "tracked": 1186,
+   "considered": 1046,
    "own_pricing": "https://anytrack.io/pricing",
    "hubs": []
   },
   {
    "name": "Hyros",
-   "tracked": 137,
-   "considered": 137,
+   "tracked": 138,
+   "considered": 138,
    "own_pricing": null,
    "hubs": []
   },
