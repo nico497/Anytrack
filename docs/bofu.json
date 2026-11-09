@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Conversion tracking and attribution platforms for performance marketers (server-side tracking, Conversion API feeds to ad platforms)",
   "you": "AnyTrack",
-  "generated": "2026-11-02T15:56:16+00:00",
+  "generated": "2026-11-09T16:25:41+00:00",
   "state_updated": "2026-10-22T03:03:30+00:00",
   "repo": "nico497/Anytrack"
  },
@@ -40,15 +40,15 @@
  "sites": [
   {
    "name": "AnyTrack",
-   "tracked": 1186,
-   "considered": 1046,
+   "tracked": 1190,
+   "considered": 1050,
    "own_pricing": "https://anytrack.io/pricing",
    "hubs": []
   },
   {
    "name": "Hyros",
-   "tracked": 138,
-   "considered": 138,
+   "tracked": 141,
+   "considered": 141,
    "own_pricing": null,
    "hubs": []
   },
@@ -63,8 +63,8 @@
   },
   {
    "name": "Voluum",
-   "tracked": 319,
-   "considered": 296,
+   "tracked": 321,
+   "considered": 298,
    "own_pricing": "https://voluum.com/pricing/",
    "hubs": [
     "https://voluum.com/case-studies/"
@@ -79,8 +79,8 @@
   },
   {
    "name": "Triple Whale",
-   "tracked": 1052,
-   "considered": 868,
+   "tracked": 1062,
+   "considered": 878,
    "own_pricing": "https://www.triplewhale.com/pricing",
    "hubs": [
     "https://www.triplewhale.com/case-studies"
@@ -188,6 +188,16 @@
    "type": "switch",
    "targets": [
     "ClickMagick"
+   ]
+  },
+  {
+   "site": "AnyTrack",
+   "url": "https://anytrack.io/blog/redtrack-vs-voluum-clickbank",
+   "path": "/blog/redtrack-vs-voluum-clickbank",
+   "type": "vs_rivals",
+   "targets": [
+    "RedTrack",
+    "Voluum"
    ]
   },
   {
@@ -527,8 +537,22 @@
   },
   {
    "site": "Voluum",
+   "url": "https://voluum.com/case-studies/brilling-media/",
+   "path": "/case-studies/brilling-media",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
    "url": "https://voluum.com/case-studies/clickspros/",
    "path": "/case-studies/clickspros",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Voluum",
+   "url": "https://voluum.com/case-studies/dbit-marketing/",
+   "path": "/case-studies/dbit-marketing",
    "type": "case",
    "targets": []
   },
