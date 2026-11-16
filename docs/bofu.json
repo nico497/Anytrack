@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Conversion tracking and attribution platforms for performance marketers (server-side tracking, Conversion API feeds to ad platforms)",
   "you": "AnyTrack",
-  "generated": "2026-11-09T16:25:41+00:00",
+  "generated": "2026-11-16T15:50:11+00:00",
   "state_updated": "2026-10-22T03:03:30+00:00",
   "repo": "nico497/Anytrack"
  },
@@ -47,14 +47,14 @@
   },
   {
    "name": "Hyros",
-   "tracked": 141,
-   "considered": 141,
+   "tracked": 148,
+   "considered": 148,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "RedTrack",
-   "tracked": 360,
+   "tracked": 361,
    "considered": 341,
    "own_pricing": "https://www.redtrack.io/pricing/",
    "hubs": [
@@ -88,8 +88,8 @@
   },
   {
    "name": "Northbeam",
-   "tracked": 205,
-   "considered": 205,
+   "tracked": 210,
+   "considered": 210,
    "own_pricing": "https://www.northbeam.io/pricing",
    "hubs": [
     "https://www.northbeam.io/customer-stories"
@@ -115,7 +115,7 @@
  ],
  "excluded": {
   "templated pages": 322,
-  "webinars, glossary, events and category pages": 44
+  "webinars, glossary, events and category pages": 45
  },
  "pages": [
   {

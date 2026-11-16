@@ -2,16 +2,16 @@
  "meta": {
   "title": "Competitor Radar",
   "niche": "Conversion tracking and attribution platforms for performance marketers (server-side tracking, Conversion API feeds to ad platforms)",
-  "updated": "2026-11-09T16:21:28+00:00",
+  "updated": "2026-11-16T15:48:30+00:00",
   "window_days": 30,
   "repo": "nico497/Anytrack",
   "first_run": false,
   "errors": [],
-  "pending": 5,
+  "pending": 0,
   "analysis_stale": false,
   "per_run": 200,
   "tracking_since": "2026-10-22T03:03:30+00:00",
-  "tracking_days": 18
+  "tracking_days": 25
  },
  "types": [
   [
@@ -48,99 +48,108 @@
   ]
  ],
  "analysis": {
-  "summary": "AnyTrack published the most new pages (5), mostly hands-on tracking how-tos. Rivals mostly refresh old pages, lean on case studies and AI topics, or stay quiet.",
+  "summary": "AnyTrack is the only one here publishing fresh how-to guides on fixing tracking. Rivals lean on landing pages, case studies, AI talk and incrementality (tests of whether ads cause sales).",
   "points": [
    {
-    "text": "No rival published fix-it guides on Meta data gaps, CRM stages or offline conversions this month, so AnyTrack owns that ground.",
+    "text": "AnyTrack published 5 new pages, mostly step-by-step guides on sending CRM and pipeline events to ad platforms. No rival does this in the data.",
     "names": [
      "AnyTrack"
     ]
    },
    {
-    "text": "RedTrack, Voluum and Triple Whale mostly updated old pages instead of adding new ones. That points to a refresh push.",
+    "text": "Triple Whale updated 18 older pages, mostly AI and Black Friday content. That reads as a refresh push aimed at ecommerce learners.",
     "names": [
-     "RedTrack",
-     "Voluum",
      "Triple Whale"
     ]
    },
    {
-    "text": "Voluum leads on proof with four case studies. AnyTrack has none in this data.",
+    "text": "Northbeam and Triple Whale both push incrementality and attribution proof, while Hyros mostly publishes sales pages.",
     "names": [
-     "AnyTrack",
-     "Voluum"
+     "Hyros",
+     "Triple Whale",
+     "Northbeam"
     ]
    }
   ],
   "plays": {
    "AnyTrack": {
-    "play": "Step-by-step fixes for tracking gaps and sending CRM stages to ad platforms as conversions.",
+    "play": "Practical fix-it guides on server-side tracking, offline conversions, CRM events and affiliate scaling.",
     "aimed": "Performance marketers and affiliates"
    },
    "Hyros": {
-    "play": "One new landing page pitching itself as the best ad tracking and attribution software.",
-    "aimed": "Buyers comparing tracking tools"
+    "play": "Five sales pages, including a 40% for life agency partner offer.",
+    "aimed": "Agencies and buyers ready to purchase"
    },
    "RedTrack": {
-    "play": "Updates old guides and case studies, no new pages. Separate 45-page bulk launch on 2026-10-29.",
-    "aimed": "Media buyers and affiliate marketers"
+    "play": "Mostly refreshed landing pages for cookieless tracking, plus case studies. A 45-page launch on 2026-10-29.",
+    "aimed": "Media buyers and affiliates"
    },
    "Voluum": {
-    "play": "Adds affiliate case studies and keeps webinars and changelog fresh to show product proof.",
-    "aimed": "Media buyers ready to buy"
+    "play": "Affiliate case studies, webinars and a changelog. Only 2 new pages.",
+    "aimed": "Media buyers and current customers"
    },
    "Triple Whale": {
-    "play": "Refreshes ecommerce AI and CRO lists. Adds an AI model guide and a hiring guide.",
-    "aimed": "Ecommerce brand marketers"
+    "play": "Large refresh of AI, Black Friday and benchmark content for ecommerce brands.",
+    "aimed": "Ecommerce marketers and brand teams"
    },
    "Northbeam": {
-    "play": "Published and updated nothing in the last 30 days.",
-    "aimed": "No clear audience this period"
+    "play": "New attribution model launch, plus guides and a case study on incrementality.",
+    "aimed": "Ecommerce brands testing ad impact"
    }
   },
   "shared": [
    {
-    "title": "Refresh over new",
-    "text": "RedTrack updated 6 old pages, Voluum 5, Triple Whale 4. They keep existing pages current instead of adding many new ones. Expect little new rival content to react to.",
-    "names": [
-     "RedTrack",
-     "Voluum",
-     "Triple Whale"
-    ]
-   },
-   {
-    "title": "AI themes",
-    "text": "Each covers AI: AI agents for ecommerce, AI in native ads, AI tools and how to pick a model. AnyTrack has no AI content in this data.",
-    "names": [
-     "RedTrack",
-     "Voluum",
-     "Triple Whale"
-    ]
-   },
-   {
     "title": "Case studies as proof",
-    "text": "Voluum has four case studies, RedTrack two (a weak signal). Both show real affiliate results to win buyers. AnyTrack has none in this data.",
+    "text": "RedTrack (3), Voluum (4), Northbeam and Triple Whale (1 each) show customer results. Voluum leans hardest on it. AnyTrack has none in this data.",
     "names": [
      "RedTrack",
-     "Voluum"
+     "Voluum",
+     "Triple Whale",
+     "Northbeam"
+    ]
+   },
+   {
+    "title": "Updating old pages over new ones",
+    "text": "RedTrack (12) and Triple Whale (18) mostly refreshed old pages. Voluum updated 5 against 2 new. It's a refresh push; AnyTrack's 3 updates are smaller.",
+    "names": [
+     "RedTrack",
+     "Voluum",
+     "Triple Whale"
+    ]
+   },
+   {
+    "title": "Sales pages and product news",
+    "text": "Hyros (5 landing pages) and RedTrack (6 landing pages) lean toward buyers. Voluum, Northbeam and Triple Whale also share product news.",
+    "names": [
+     "Hyros",
+     "RedTrack",
+     "Voluum",
+     "Triple Whale",
+     "Northbeam"
     ]
    }
   ],
   "gaps": [
    {
-    "title": "More platform gap fixes",
-    "text": "Only AnyTrack publishes troubleshooting for ad platform vs store numbers. Copy the Meta and Shopify guide for TikTok, Google and other shops."
-   },
-   {
-    "title": "Rival comparison pages",
-    "text": "AnyTrack has one comparison, RedTrack vs Voluum. Nobody covers Hyros, Northbeam or Triple Whale head to head, and buyers search for these."
+    "title": "Conversion API setup guides",
+    "text": "Nobody in the data has new pages on feeding conversions to ad platforms. AnyTrack's CRM and GoHighLevel guides are early here, so it could build a series."
    },
    {
     "title": "Customer case studies",
-    "text": "Only Voluum and RedTrack show results. AnyTrack could publish before-and-after tracking stories for affiliates and lead-gen teams."
+    "text": "AnyTrack has no case studies in the data, while Voluum has 4 and RedTrack 3. Affiliate proof with real numbers is open to AnyTrack."
+   },
+   {
+    "title": "Ad blocker and data gap fixes",
+    "text": "AnyTrack's Meta vs Shopify gap guide and ad blocker comparison are unique. No rival covers troubleshooting data loss, so AnyTrack could own it."
    }
   ],
-  "versus": {}
+  "versus": {
+   "Hyros": "Publishes only sales pages and a partner offer. AnyTrack teaches more, with 6 how-to guides, but has far fewer sales pages.",
+   "RedTrack": "Updates many landing pages and runs case studies. AnyTrack publishes more new how-to content, while RedTrack has more proof and a bigger refresh push.",
+   "Voluum": "Leans on case studies, webinars and a changelog. AnyTrack offers more practical guides and has no case studies in this data.",
+   "Triple Whale": "Publishes broad ecommerce and AI content, mostly updates. AnyTrack is narrower, focused on tracking fixes for performance marketers and affiliates.",
+   "Northbeam": "Focuses on a new attribution model and incrementality. AnyTrack covers setup and troubleshooting, and has nothing on incrementality in this data."
+  }
  },
  "sites": [
   {
@@ -203,16 +212,16 @@
    "url": "https://anytrack.io/sitemap-index.xml",
    "pages": 1181,
    "undated": 1181,
-   "new_urls": 4,
-   "play": "Step-by-step fixes for tracking gaps and sending CRM stages to ad platforms as conversions.",
+   "new_urls": 0,
+   "play": "Practical fix-it guides on server-side tracking, offline conversions, CRM events and affiliate scaling.",
    "aimed": "Performance marketers and affiliates"
   },
   {
    "name": "Hyros",
    "site": "https://hyros.com",
    "you": false,
-   "n": 1,
-   "site_pages": 141,
+   "n": 5,
+   "site_pages": 147,
    "n_prev": 0,
    "refreshed": 0,
    "mix": {
@@ -223,21 +232,27 @@
     "case": 0,
     "opinion": 0,
     "news": 0,
-    "landing": 1
+    "landing": 5
    },
    "stages": {
     "learning": 0,
     "comparing": 0,
-    "buying": 1,
+    "buying": 5,
     "customers": 0
    },
    "topics": [
-    "custom attribution tracking software"
+    "custom attribution tracking software",
+    "agency partner program and commission",
+    "custom ai-powered attribution tracking",
+    "custom ad tracking attribution software",
+    "ai-powered custom attribution tracking"
    ],
    "unclassified": 0,
-   "removed": 0,
-   "removed_titles": [],
-   "new": 1,
+   "removed": 1,
+   "removed_titles": [
+    "The Best Ad Tracking & Attribution Software - Hyros"
+   ],
+   "new": 5,
    "updated": 0,
    "bulk": [],
    "programmatic": [],
@@ -245,48 +260,48 @@
    "error": null,
    "method": "sitemap",
    "url": "https://hyros.com/sitemap.xml",
-   "pages": 140,
-   "undated": 140,
-   "new_urls": 3,
-   "play": "One new landing page pitching itself as the best ad tracking and attribution software.",
-   "aimed": "Buyers comparing tracking tools"
+   "pages": 147,
+   "undated": 147,
+   "new_urls": 7,
+   "play": "Five sales pages, including a 40% for life agency partner offer.",
+   "aimed": "Agencies and buyers ready to purchase"
   },
   {
    "name": "RedTrack",
    "site": "https://www.redtrack.io",
    "you": false,
-   "n": 6,
-   "site_pages": 360,
-   "n_prev": 29,
-   "refreshed": 8,
+   "n": 13,
+   "site_pages": 361,
+   "n_prev": 30,
+   "refreshed": 15,
    "mix": {
     "compare": 0,
     "howto": 1,
     "list": 3,
     "research": 0,
-    "case": 2,
+    "case": 3,
     "opinion": 0,
     "news": 0,
-    "landing": 0
+    "landing": 6
    },
    "stages": {
-    "learning": 6,
-    "comparing": 0,
-    "buying": 0,
+    "learning": 7,
+    "comparing": 2,
+    "buying": 4,
     "customers": 0
    },
    "topics": [
+    "ad-level roi tracking and cost revenue sync",
     "webinars on ad tracking and affiliate marketing",
+    "google data manager api conversion tracking",
     "d2c affiliate scaling performance tracking",
-    "traffic diversification after meta scaling",
-    "conversion tracking and attribution",
-    "conversion path analysis guide"
+    "traffic diversification after meta scaling"
    ],
-   "unclassified": 5,
+   "unclassified": 1,
    "removed": 0,
    "removed_titles": [],
-   "new": 0,
-   "updated": 6,
+   "new": 1,
+   "updated": 12,
    "bulk": [
     {
      "type": "launch",
@@ -299,11 +314,11 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.redtrack.io/sitemap.xml",
-   "pages": 360,
+   "pages": 361,
    "undated": 0,
-   "new_urls": 0,
-   "play": "Updates old guides and case studies, no new pages. Separate 45-page bulk launch on 2026-10-29.",
-   "aimed": "Media buyers and affiliate marketers"
+   "new_urls": 1,
+   "play": "Mostly refreshed landing pages for cookieless tracking, plus case studies. A 45-page launch on 2026-10-29.",
+   "aimed": "Media buyers and affiliates"
   },
   {
    "name": "Voluum",
@@ -347,11 +362,11 @@
    "error": null,
    "method": "sitemap",
    "url": "https://voluum.com/sitemap_index.xml",
-   "pages": 321,
+   "pages": 320,
    "undated": 0,
-   "new_urls": 2,
-   "play": "Adds affiliate case studies and keeps webinars and changelog fresh to show product proof.",
-   "aimed": "Media buyers ready to buy"
+   "new_urls": 0,
+   "play": "Affiliate case studies, webinars and a changelog. Only 2 new pages.",
+   "aimed": "Media buyers and current customers"
   },
   {
    "name": "ClickMagick",
@@ -396,94 +411,357 @@
    "name": "Triple Whale",
    "site": "https://www.triplewhale.com",
    "you": false,
-   "n": 6,
+   "n": 20,
    "site_pages": 1062,
-   "n_prev": 27,
-   "refreshed": 4,
+   "n_prev": 16,
+   "refreshed": 18,
    "mix": {
-    "compare": 0,
-    "howto": 2,
-    "list": 2,
+    "compare": 1,
+    "howto": 8,
+    "list": 3,
     "research": 0,
-    "case": 0,
-    "opinion": 0,
-    "news": 0,
+    "case": 1,
+    "opinion": 2,
+    "news": 3,
     "landing": 2
    },
    "stages": {
-    "learning": 3,
-    "comparing": 2,
-    "buying": 0,
-    "customers": 1
+    "learning": 11,
+    "comparing": 3,
+    "buying": 2,
+    "customers": 4
    },
    "topics": [
     "marketing manager analytics platform",
+    "ecommerce marketing resources and benchmarks",
     "bfcm workshop certification training",
-    "ai tools for ecommerce",
-    "conversion rate optimization strategies",
-    "how to choose an ai model"
+    "multi-channel attribution incrementality testing",
+    "agentic ai versus traditional automation"
    ],
    "unclassified": 0,
    "removed": 0,
    "removed_titles": [],
    "new": 2,
-   "updated": 4,
+   "updated": 18,
    "bulk": [],
-   "programmatic": [],
+   "programmatic": [
+    {
+     "section": "expert",
+     "pages": 182,
+     "new": 0
+    }
+   ],
    "ok": true,
    "error": null,
-   "method": "feed",
-   "url": "https://www.triplewhale.com/feed.xml",
-   "pages": 50,
+   "method": "sitemap",
+   "url": "https://www.triplewhale.com/sitemap.xml",
+   "pages": 1052,
    "undated": 0,
-   "new_urls": 10,
-   "play": "Refreshes ecommerce AI and CRO lists. Adds an AI model guide and a hiring guide.",
-   "aimed": "Ecommerce brand marketers"
+   "new_urls": 0,
+   "play": "Large refresh of AI, Black Friday and benchmark content for ecommerce brands.",
+   "aimed": "Ecommerce marketers and brand teams"
   },
   {
    "name": "Northbeam",
    "site": "https://northbeam.io",
    "you": false,
-   "n": 0,
-   "site_pages": 205,
-   "n_prev": 0,
-   "refreshed": 2,
+   "n": 5,
+   "site_pages": 210,
+   "n_prev": 17,
+   "refreshed": 4,
    "mix": {
     "compare": 0,
-    "howto": 0,
+    "howto": 2,
     "list": 0,
     "research": 0,
-    "case": 0,
+    "case": 1,
     "opinion": 0,
-    "news": 0,
+    "news": 1,
     "landing": 0
    },
    "stages": {
-    "learning": 0,
+    "learning": 2,
     "comparing": 0,
-    "buying": 0,
+    "buying": 2,
     "customers": 0
    },
-   "topics": [],
-   "unclassified": 0,
+   "topics": [
+    "clicks + deterministic views attribution model",
+    "pinterest attribution and roas improvement",
+    "incrementality testing best practices",
+    "incrementality testing for ads"
+   ],
+   "unclassified": 1,
    "removed": 0,
    "removed_titles": [],
-   "new": 0,
-   "updated": 0,
+   "new": 3,
+   "updated": 2,
    "bulk": [],
    "programmatic": [],
    "ok": true,
    "error": null,
    "method": "sitemap",
    "url": "https://www.northbeam.io/sitemap.xml",
-   "pages": 205,
+   "pages": 210,
    "undated": 0,
-   "new_urls": 0,
-   "play": "Published and updated nothing in the last 30 days.",
-   "aimed": "No clear audience this period"
+   "new_urls": 5,
+   "play": "New attribution model launch, plus guides and a case study on incrementality.",
+   "aimed": "Ecommerce brands testing ad impact"
   }
  ],
  "pages": [
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/cost-revenue-sync/",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Ad-level ROI tracking and cost revenue sync",
+   "search": "ad tracking cost revenue sync ROI",
+   "why": "Showcases core feature advantage: ad-level cost sync every 5 minutes versus competitor campaign-level data limits."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/industry-insights/",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "list",
+   "stage": "learning",
+   "topic": "Webinars on ad tracking and affiliate marketing",
+   "search": "affiliate marketing webinars conversion tracking",
+   "why": "Establishes thought leadership through expert-led webinars on performance marketing trends and tactics."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/changelog/google-data-api/",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Google Data Manager API conversion tracking",
+   "search": "Google Data Manager API send conversions",
+   "why": "Showcases RedTrack's Google Data API integration to convince media buyers to solve cookie loss and conversion tracking gaps."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/integrations/clickbank/",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "ClickBank affiliate tracking and conversion API",
+   "search": "ClickBank Digistore24 sales tracking conversion API",
+   "why": "Converts media buyers tracking affiliate networks by showing complete funnel attribution and Meta integration."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/solutions/attribution/",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Cookieless attribution and tracking",
+   "search": "cookieless conversion tracking attribution",
+   "why": "Demonstrates how their solution fixes ad platform reporting discrepancies to convince buyers."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/use-cases/agencies/",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Conversion tracking for agencies",
+   "search": "conversion tracking solution for agencies",
+   "why": "Converts performance agencies managing multiple clients into customers with workspace and billing solutions."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/use-cases/dtc-hub/",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Cookieless ad tracking DTC ecommerce",
+   "search": "cookieless ad tracking DTC ecommerce attribution",
+   "why": "Attracts DTC brands comparing tracking solutions against platform-reported ROAS."
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/reports-guides",
+   "title": "Triple Whale — Make waves.",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "list",
+   "stage": "learning",
+   "topic": "Ecommerce marketing resources and benchmarks",
+   "search": "ecommerce BFCM benchmarks strategies guides",
+   "why": "Attracts early-stage researchers with free industry data, benchmarks, and tactical guides on ecommerce growth."
+  },
+  {
+   "site": "Triple Whale",
+   "url": "https://www.triplewhale.com/blog/whats-a-good-cost-per-acquisition",
+   "title": "What is a good CPA? Benchmarks by industry and channel in 2026",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": "2026-04-24T18:41:11+00:00",
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Cost per acquisition benchmarks",
+   "search": "what is good CPA cost per acquisition",
+   "why": "Establishes Triple Whale as expert source for evaluating marketing performance metrics and unit economics."
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/blog/discover-clicks-deterministic-views",
+   "title": "Introducing Clicks + Deterministic Views by Northbeam",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": "2025-10-07T00:00:00+00:00",
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "news",
+   "stage": "buying",
+   "topic": "Clicks + Deterministic Views attribution model",
+   "search": "new attribution model viewthrough conversion tracking",
+   "why": "Announces major product launch to show current and prospective customers new capabilities."
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/blog/how-omnilux-drove-a-659-roas-lift-on-pinterest-with-northbeams-clicks-deterministic-views",
+   "title": "How Omnilux Drove a 659% ROAS Lift on Pinterest with Northbeam’s Clicks + Deterministic Views",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "updated",
+   "published": "2025-10-07T00:00:00+00:00",
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Pinterest attribution and ROAS improvement",
+   "search": "Pinterest ads attribution model ROAS",
+   "why": "Demonstrates platform impact with measurable results to convince performance marketers considering attribution tools."
+  },
+  {
+   "site": "Hyros",
+   "url": "https://hyros.com/agency-pre-new",
+   "title": "HYROS Agency Partners: Get Paid 40% For Life",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-16T15:48:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Agency partner program and commission",
+   "search": "agency affiliate program tracking software",
+   "why": "Converts agencies into resellers by promoting 40% lifetime commissions and custom tracking capabilities."
+  },
+  {
+   "site": "Hyros",
+   "url": "https://hyros.com/hyros-custom-vibe",
+   "title": "The Best Ad Tracking & Attribution Software - Hyros",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-16T15:48:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Custom AI-powered attribution tracking",
+   "search": "best ad tracking attribution software",
+   "why": "Showcases Hyros Custom product with real case study results to convert high-intent buyers."
+  },
+  {
+   "site": "Hyros",
+   "url": "https://hyros.com/fb-custom",
+   "title": "The Best Ad Tracking & Attribution Software - Hyros",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-16T15:48:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Custom ad tracking attribution software",
+   "search": "best ad tracking attribution software",
+   "why": "Showcases custom tracking solution to buyers evaluating attribution platforms for ROI improvement."
+  },
+  {
+   "site": "Hyros",
+   "url": "https://hyros.com/hyros-custom-vibe-demo",
+   "title": "The Best Ad Tracking & Attribution Software - Hyros",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-16T15:48:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "AI-powered custom attribution tracking",
+   "search": "ad tracking attribution software demo",
+   "why": "Demonstrates Hyros Custom AI feature to buyers evaluating premium tracking solutions."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/events/taboola-true-roas-webinar/",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "new",
+   "published": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:48:30+00:00",
+   "type": "case",
+   "stage": "learning",
+   "topic": "Native advertising tracking and ROAS",
+   "search": "how to track ROAS with native advertising",
+   "why": "Shows tracking solution for channels beyond Meta and Google, educates prospects on scaling with native ads."
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/blog/incrementality-testing-what-makes-one-test-better-than-another",
+   "title": "What Makes One Incrementality Test Better Than Another?",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "new",
+   "published": "2026-11-10T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:48:30+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "incrementality testing best practices",
+   "search": "how to design incrementality tests",
+   "why": "Establishes Northbeam as expert in attribution methodology for performance marketers."
+  },
+  {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/blog/what-is-incrementality",
+   "title": "Incrementality Explained: How to Know If Your Ads Actually Drive Sales",
+   "date": "2026-11-16T15:48:30+00:00",
+   "kind": "new",
+   "published": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:48:30+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "incrementality testing for ads",
+   "search": "what is incrementality marketing ads",
+   "why": "Educates early-stage marketers on incrementality concept before they're ready to buy solutions."
+  },
   {
    "site": "RedTrack",
    "url": "https://www.redtrack.io/blog/best-ai-agents-for-ecommerce/",
@@ -553,20 +831,6 @@
    "topic": "BFCM workshop certification training",
    "search": "BFCM ecommerce training workshop",
    "why": "Engages existing users with hands-on certification training for peak season preparation."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/conversion-rate-optimization-cro",
-   "title": "Conversion Rate Optimization (CRO): 19 Strategies for 2026",
-   "date": "2026-11-09T16:21:28+00:00",
-   "kind": "updated",
-   "published": "2025-04-18T18:03:12+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "list",
-   "stage": "learning",
-   "topic": "Conversion rate optimization strategies",
-   "search": "how to improve conversion rate optimization CRO",
-   "why": "Captures early-stage learners researching CRO tactics to build authority in ecommerce performance."
   },
   {
    "site": "AnyTrack",
@@ -1340,17 +1604,73 @@
   },
   {
    "site": "RedTrack",
-   "url": "https://www.redtrack.io/industry-insights/",
-   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
-   "date": "2026-10-26T13:04:56+00:00",
-   "kind": "updated",
-   "published": null,
+   "url": "https://www.redtrack.io/blog/what-is-ad-tracking/",
+   "title": "What Is Ad Tracking?! And How to Do It?",
+   "date": "2026-10-29T14:37:15+00:00",
+   "kind": "bulk",
+   "published": "2026-10-29T14:37:15+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "list",
+   "type": "howto",
    "stage": "learning",
-   "topic": "Webinars on ad tracking and affiliate marketing",
-   "search": "affiliate marketing webinars conversion tracking",
-   "why": "Establishes thought leadership through expert-led webinars on performance marketing trends and tactics."
+   "topic": "Ad tracking fundamentals and implementation",
+   "search": "what is ad tracking how to track ads",
+   "why": "Establishes RedTrack as educational authority for marketers new to tracking."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/scaling-facebook-ads-over-1-m-with-redtrack/",
+   "title": "How Venture Beyond scaled Facebook ad spend over 4M with RedTrack: Agency Case Study",
+   "date": "2026-10-29T14:37:14+00:00",
+   "kind": "bulk",
+   "published": "2026-10-29T14:37:14+00:00",
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Agency case study Facebook ads scaling",
+   "search": "how to scale Facebook ads for agencies",
+   "why": "Shows real results from agencies using RedTrack to manage scaled ad spend and overcome iOS 14 tracking issues."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/affiliate-program-management-with-use-of-partnership-portal-redtrack-case-study/",
+   "title": "Case study: How does Mirelia Networks manage its affiliate program with use of RedTrack?",
+   "date": "2026-10-29T14:37:13+00:00",
+   "kind": "bulk",
+   "published": "2026-10-29T14:37:13+00:00",
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "case",
+   "stage": "customers",
+   "topic": "Affiliate program management tracking",
+   "search": "affiliate program management partnership portal",
+   "why": "Demonstrates affiliate management capabilities to prospective clients in similar verticals."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/the-california-privacy-rights-act-cpra-how-to-prepare-your-business/",
+   "title": "The California Privacy Rights Act (CPRA): How to Prepare Your Business",
+   "date": "2026-10-29T14:37:13+00:00",
+   "kind": "bulk",
+   "published": "2026-10-29T14:37:13+00:00",
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "CPRA compliance privacy regulations",
+   "search": "how to comply with CPRA California",
+   "why": "Builds authority on privacy regulations affecting their target performance marketers."
+  },
+  {
+   "site": "RedTrack",
+   "url": "https://www.redtrack.io/blog/financer-scaling-with-redtrack-case-study/",
+   "title": "Case study: Financer.com scaling with RedTrack",
+   "date": "2026-10-29T14:37:12+00:00",
+   "kind": "bulk",
+   "published": "2026-10-29T14:37:12+00:00",
+   "first_seen": "2026-10-22T03:03:30+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Financer.com scaling with RedTrack",
+   "search": "conversion tracking attribution case study",
+   "why": "Shows how Financer.com used RedTrack to track affiliate conversions and optimize scaling decisions."
   },
   {
    "site": "RedTrack",
@@ -1563,20 +1883,6 @@
    "why": "Builds authority with timely insights; attracts early-stage marketers researching industry shifts."
   },
   {
-   "site": "RedTrack",
-   "url": "https://www.redtrack.io/use-cases/dtc-hub/",
-   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
-   "date": "2026-10-14T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Cookieless ad tracking DTC ecommerce",
-   "search": "cookieless ad tracking DTC ecommerce attribution",
-   "why": "Attracts DTC brands comparing tracking solutions against platform-reported ROAS."
-  },
-  {
    "site": "Triple Whale",
    "url": "https://www.triplewhale.com/blog/how-to-reduce-cpa",
    "title": "How to reduce CPA without killing growth: 8 expert tips",
@@ -1603,20 +1909,6 @@
    "topic": "TikTok CPM benchmarks and optimization",
    "search": "TikTok CPM benchmarks 2026",
    "why": "Attracts early-stage ecommerce advertisers learning to optimize ad spend costs."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/ai-in-ecommerce",
-   "title": "AI in Ecommerce: Use Cases, Benefits & Examples",
-   "date": "2026-10-09T00:00:00+00:00",
-   "kind": "updated",
-   "published": "2025-02-24T14:36:01+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "AI use cases in ecommerce",
-   "search": "AI in ecommerce use cases benefits",
-   "why": "Educates early-stage prospects on AI applications to build category awareness."
   },
   {
    "site": "Triple Whale",
@@ -1690,20 +1982,6 @@
   },
   {
    "site": "RedTrack",
-   "url": "https://www.redtrack.io/cost-revenue-sync/",
-   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
-   "date": "2026-10-08T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Ad-level ROI tracking and cost revenue sync",
-   "search": "ad tracking cost revenue sync ROI",
-   "why": "Showcases core feature advantage: ad-level cost sync every 5 minutes versus competitor campaign-level data limits."
-  },
-  {
-   "site": "RedTrack",
    "url": "https://www.redtrack.io/mcp-api/",
    "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-10-08T00:00:00+00:00",
@@ -1743,34 +2021,6 @@
    "topic": "Cookieless server-side ad tracking",
    "search": "server-side ad tracking conversion attribution",
    "why": "Educates performance marketers on their solution for privacy-compliant conversion tracking."
-  },
-  {
-   "site": "RedTrack",
-   "url": "https://www.redtrack.io/changelog/google-data-api/",
-   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
-   "date": "2026-10-08T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Google Data Manager API conversion tracking",
-   "search": "Google Data Manager API send conversions",
-   "why": "Showcases RedTrack's Google Data API integration to convince media buyers to solve cookie loss and conversion tracking gaps."
-  },
-  {
-   "site": "RedTrack",
-   "url": "https://www.redtrack.io/integrations/clickbank/",
-   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
-   "date": "2026-10-08T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "ClickBank affiliate tracking and conversion API",
-   "search": "ClickBank Digistore24 sales tracking conversion API",
-   "why": "Converts media buyers tracking affiliate networks by showing complete funnel attribution and Meta integration."
   },
   {
    "site": "RedTrack",
@@ -1844,20 +2094,6 @@
   },
   {
    "site": "RedTrack",
-   "url": "https://www.redtrack.io/solutions/attribution/",
-   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
-   "date": "2026-10-08T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Cookieless attribution and tracking",
-   "search": "cookieless conversion tracking attribution",
-   "why": "Demonstrates how their solution fixes ad platform reporting discrepancies to convince buyers."
-  },
-  {
-   "site": "RedTrack",
    "url": "https://www.redtrack.io/solutions/own-your-data/",
    "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-10-08T00:00:00+00:00",
@@ -1897,20 +2133,6 @@
    "topic": "Cookieless server-side conversion tracking",
    "search": "cookieless ad tracking conversion API",
    "why": "Positions RedTrack as solution for tracking conversions ad platforms miss."
-  },
-  {
-   "site": "RedTrack",
-   "url": "https://www.redtrack.io/use-cases/agencies/",
-   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
-   "date": "2026-10-08T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Conversion tracking for agencies",
-   "search": "conversion tracking solution for agencies",
-   "why": "Converts performance agencies managing multiple clients into customers with workspace and billing solutions."
   },
   {
    "site": "RedTrack",
@@ -1981,20 +2203,6 @@
    "topic": "Cookieless ad tracking for media buyers",
    "search": "ad tracking solution media buying teams",
    "why": "Attracts media buying teams evaluating how to track ads without cookies and manage multiple buyers."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/reports-guides",
-   "title": "Triple Whale — Make waves.",
-   "date": "2026-10-05T15:52:22+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "list",
-   "stage": "learning",
-   "topic": "Ecommerce marketing resources and benchmarks",
-   "search": "ecommerce BFCM benchmarks strategies guides",
-   "why": "Attracts early-stage researchers with free industry data, benchmarks, and tactical guides on ecommerce growth."
   },
   {
    "site": "Triple Whale",
@@ -2095,20 +2303,6 @@
    "why": "Converts performance marketers dealing with privacy-driven data loss into customers through product demo/trial."
   },
   {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/whats-a-good-cost-per-acquisition",
-   "title": "What is a good CPA? Benchmarks by industry and channel in 2026",
-   "date": "2026-09-21T00:00:00+00:00",
-   "kind": "updated",
-   "published": "2026-04-24T18:41:11+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "Cost per acquisition benchmarks",
-   "search": "what is good CPA cost per acquisition",
-   "why": "Establishes Triple Whale as expert source for evaluating marketing performance metrics and unit economics."
-  },
-  {
    "site": "Voluum",
    "url": "https://voluum.com/changelog/september-2026-update-voluum-mcp/",
    "title": "September 2026 update: Voluum MCP - Voluum – Ad Tracker for Media Buyers",
@@ -2166,48 +2360,6 @@
   },
   {
    "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/upselling-vs-cross-selling",
-   "title": "Upselling vs. cross-selling: Which increases AOV more?",
-   "date": "2026-09-11T16:17:13+00:00",
-   "kind": "unknown",
-   "published": "2026-09-11T16:17:13+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "Upselling vs cross-selling ecommerce",
-   "search": "upselling vs cross-selling increase AOV",
-   "why": "Attracts ecommerce founders learning revenue optimization fundamentals."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/shopify-customer-service",
-   "title": "How to contact Shopify customer service in 2026",
-   "date": "2026-09-11T00:00:00+00:00",
-   "kind": "updated",
-   "published": "2023-01-22T20:38:57+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "How to contact Shopify support",
-   "search": "how to contact Shopify customer service",
-   "why": "Attracts Shopify merchants seeking help, builds audience trust and authority."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/moby-is-the-ai-harness-for-ecommerce",
-   "title": "Moby is the AI harness for commerce. Here's what that means.",
-   "date": "2026-09-04T16:00:21+00:00",
-   "kind": "unknown",
-   "published": "2026-09-04T16:00:21+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "opinion",
-   "stage": "learning",
-   "topic": "AI harness for ecommerce commerce data",
-   "search": "what is an AI harness ecommerce",
-   "why": "Establishes Moby as the solution for AI-driven commerce decisions using their data foundation."
-  },
-  {
-   "site": "Triple Whale",
    "url": "https://www.triplewhale.com/product-updates",
    "title": "Triple Whale — Make waves.",
    "date": "2026-09-03T00:00:00+00:00",
@@ -2233,118 +2385,6 @@
    "topic": "ecommerce ad optimization signal quality",
    "search": "how to optimize ecommerce ads",
    "why": "Educates buyers on signal quality fundamentals before they consider conversion tracking solutions."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/click-through-vs-view-through-attribution",
-   "title": "Click Through vs View Through Attribution for Ecommerce",
-   "date": "2026-08-28T12:31:05+00:00",
-   "kind": "unknown",
-   "published": "2026-08-28T12:31:05+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "compare",
-   "stage": "learning",
-   "topic": "Click-through vs view-through attribution",
-   "search": "click through vs view through attribution",
-   "why": "Educate ecommerce marketers on attribution models, position Triple Whale as trusted solution."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/best-ai-visibility-and-optimization-tools-for-ecommerce",
-   "title": "Best AI Visibility & Optimization Tools for Ecommerce (2026)",
-   "date": "2026-08-17T19:21:49+00:00",
-   "kind": "unknown",
-   "published": "2026-08-17T19:21:49+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "list",
-   "stage": "learning",
-   "topic": "AI visibility tools ecommerce",
-   "search": "best AI visibility tools ecommerce 2026",
-   "why": "Educates about emerging AI visibility risks, positioning Triple Whale as knowledgeable in ecommerce data gaps."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/bfcm-email-marketing-strategies",
-   "title": "BFCM Email Marketing: 12 Strategies for 2026",
-   "date": "2026-08-14T13:56:26+00:00",
-   "kind": "unknown",
-   "published": "2026-08-14T13:56:26+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "howto",
-   "stage": "buying",
-   "topic": "BFCM email marketing strategies and calendar",
-   "search": "BFCM email marketing strategy 2026",
-   "why": "Demonstrates email + SMS measurement expertise; converts email marketers considering Triple Whale."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/bfcm-advertising-guide",
-   "title": "Black Friday Advertising Guide: Strategies for 2026",
-   "date": "2026-08-03T00:00:00+00:00",
-   "kind": "updated",
-   "published": "2024-10-18T19:56:54+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "Black Friday advertising strategies",
-   "search": "BFCM advertising strategies 2026",
-   "why": "Positions Triple Whale as authority on BFCM planning using their proprietary tracking data."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/bfcm-2024-google-ads",
-   "title": "Black Friday Google Ads Guide for BFCM 2026",
-   "date": "2026-07-31T00:00:00+00:00",
-   "kind": "updated",
-   "published": "2025-08-07T05:18:36+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "research",
-   "stage": "comparing",
-   "topic": "Black Friday Google Ads benchmarks strategies",
-   "search": "Black Friday Google Ads benchmarks BFCM 2025",
-   "why": "Attracts performance marketers planning seasonal campaigns with data-driven optimization guidance."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/google-ads-black-friday",
-   "title": "Black Friday Google Ads Guide for BFCM 2026",
-   "date": "2026-07-31T00:00:00+00:00",
-   "kind": "updated",
-   "published": "2025-08-07T05:18:36+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "research",
-   "stage": "comparing",
-   "topic": "Black Friday Google Ads benchmarks strategies",
-   "search": "Black Friday Google Ads benchmarks 2026 ROAS",
-   "why": "Establishes thought leadership with original BFCM data to guide buyers' paid media decisions."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/black-friday-marketing-strategy",
-   "title": "Black Friday Marketing Strategy for 2026",
-   "date": "2026-07-29T00:00:00+00:00",
-   "kind": "updated",
-   "published": "2025-08-07T04:57:44+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "research",
-   "stage": "learning",
-   "topic": "Black Friday marketing strategy data",
-   "search": "black friday marketing strategy 2026",
-   "why": "Positions Triple Whale as data authority; builds trust with BFCM performance research."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/bfcm-checklist",
-   "title": "Black Friday Checklist: 10 Ecommerce Tactics to Dominate BFCM 2026",
-   "date": "2026-07-17T00:00:00+00:00",
-   "kind": "updated",
-   "published": "2024-10-24T21:15:09+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "howto",
-   "stage": "buying",
-   "topic": "Black Friday tactics for ecommerce",
-   "search": "Black Friday ecommerce tactics BFCM",
-   "why": "Establishes Triple Whale as authority on BFCM optimization with proprietary data."
   },
   {
    "site": "Northbeam",
@@ -2415,48 +2455,6 @@
    "topic": "C+DV campaign performance attribution",
    "search": "which campaigns benefit from C+DV clicks deterministic views",
    "why": "Educates buyers on attribution model strengths; differentiates Northbeam's deterministic approach."
-  },
-  {
-   "site": "Northbeam",
-   "url": "https://www.northbeam.io/blog/discover-clicks-deterministic-views",
-   "title": "Introducing Clicks + Deterministic Views by Northbeam",
-   "date": "2025-10-07T00:00:00+00:00",
-   "kind": "unknown",
-   "published": "2025-10-07T00:00:00+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "news",
-   "stage": "buying",
-   "topic": "Clicks + Deterministic Views attribution model",
-   "search": "new attribution model viewthrough conversion tracking",
-   "why": "Announces major product launch to show current and prospective customers new capabilities."
-  },
-  {
-   "site": "Northbeam",
-   "url": "https://www.northbeam.io/blog/how-omnilux-drove-a-659-roas-lift-on-pinterest-with-northbeams-clicks-deterministic-views",
-   "title": "How Omnilux Drove a 659% ROAS Lift on Pinterest with Northbeam’s Clicks + Deterministic Views",
-   "date": "2025-10-07T00:00:00+00:00",
-   "kind": "unknown",
-   "published": "2025-10-07T00:00:00+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "case",
-   "stage": "buying",
-   "topic": "Pinterest attribution and ROAS improvement",
-   "search": "Pinterest ads attribution model ROAS",
-   "why": "Demonstrates platform impact with measurable results to convince performance marketers considering attribution tools."
-  },
-  {
-   "site": "Triple Whale",
-   "url": "https://www.triplewhale.com/blog/bfcm-ai",
-   "title": "How to Win BFCM With AI: 8 Strategies to Optimize Your Ecommerce Business",
-   "date": "2025-08-05T00:00:00+00:00",
-   "kind": "updated",
-   "published": "2024-10-10T20:52:37+00:00",
-   "first_seen": "2026-10-22T03:03:30+00:00",
-   "type": "howto",
-   "stage": "comparing",
-   "topic": "BFCM AI ecommerce optimization strategies",
-   "search": "how to optimize BFCM with AI",
-   "why": "Positions Triple Whale's AI tools as essential for holiday season success and ROAS optimization."
   },
   {
    "site": "Northbeam",
@@ -2663,6 +2661,54 @@
      "updated": 1,
      "removed": 0,
      "pages": 205
+    }
+   }
+  },
+  {
+   "week": "2026-W47",
+   "date": "2026-11-16T15:48:30+00:00",
+   "sites": {
+    "AnyTrack": {
+     "new": 1,
+     "updated": 0,
+     "removed": 8,
+     "pages": 1042
+    },
+    "Hyros": {
+     "new": 10,
+     "updated": 0,
+     "removed": 1,
+     "pages": 147
+    },
+    "RedTrack": {
+     "new": 1,
+     "updated": 11,
+     "removed": 0,
+     "pages": 361
+    },
+    "Voluum": {
+     "new": 2,
+     "updated": 3,
+     "removed": 0,
+     "pages": 321
+    },
+    "ClickMagick": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Triple Whale": {
+     "new": 2,
+     "updated": 18,
+     "removed": 0,
+     "pages": 880
+    },
+    "Northbeam": {
+     "new": 5,
+     "updated": 3,
+     "removed": 0,
+     "pages": 210
     }
    }
   }
