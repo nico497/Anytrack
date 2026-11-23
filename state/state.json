@@ -17099,7 +17099,7 @@
    "url": "https://www.redtrack.io/industry-insights/",
    "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-10-19T00:00:00+00:00",
-   "lastmod": "2026-11-16T00:00:00+00:00",
+   "lastmod": "2026-11-19T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": true,
@@ -17113,10 +17113,10 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "284271557d411c85",
-   "dates_checked": "2026-11-16T15:48:30+00:00",
+   "fp": "9bdd2079bc092c4a",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
-   "event": "2026-11-16T15:48:30+00:00",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
    "fp_verified": true
@@ -17153,12 +17153,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "6f1e5af05e63f9f9",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "8414e169bd09b317",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/mcp": {
    "site": "RedTrack",
@@ -17335,7 +17336,7 @@
    "url": "https://www.redtrack.io/request-demo/",
    "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-10-19T00:00:00+00:00",
-   "lastmod": "2026-10-19T00:00:00+00:00",
+   "lastmod": "2026-11-19T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": false,
@@ -17349,12 +17350,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "adaaa6634784f137",
-   "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "unknown",
-   "event": "2026-10-19T00:00:00+00:00",
+   "fp": "c855796ff7aa1d4e",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/teams": {
    "site": "RedTrack",
@@ -17414,12 +17416,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "ee491ace93de6ceb",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "8e018cd9348fd876",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/comparisons": {
    "site": "RedTrack",
@@ -17998,7 +18001,7 @@
   "redtrack.io/events/google-ad-accounts-101": {
    "site": "RedTrack",
    "url": "https://www.redtrack.io/events/google-ad-accounts-101/",
-   "title": "Google ad accounts 101",
+   "title": "RedTrack | Cookieless ad tracking solution for media-buyers",
    "date": "2026-11-12T00:00:00+00:00",
    "lastmod": "2026-11-12T00:00:00+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
@@ -18010,7 +18013,7 @@
    "pub": null,
    "mod": null,
    "fp": "98d2d0cf644d460d",
-   "dates_checked": "2026-11-16T15:48:30+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "unknown",
    "event": "2026-11-12T00:00:00+00:00"
   },
@@ -18726,12 +18729,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "8c7f3d8d8188411b",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "1fb8e5a2195c0e78",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/integrations/snapchat-ads-tracking": {
    "site": "RedTrack",
@@ -18935,7 +18939,7 @@
    "pub": null,
    "mod": null,
    "fp": "c418236229f0fc9e",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "unknown",
    "event": "2026-09-21T00:00:00+00:00",
    "bulk_pub": false,
@@ -19194,12 +19198,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "ea401704a377b7db",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "b8eb815b20235a60",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/software-solutions/ad-automation-software": {
    "site": "RedTrack",
@@ -19442,12 +19447,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "cfcd4ef8131ebe36",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "47928904b00dfcab",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/solutions/owning-data": {
    "site": "RedTrack",
@@ -19639,12 +19645,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "38fa5e597145c91f",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "0885be32543109e2",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/use-cases/ecommerce-and-dtc": {
    "site": "RedTrack",
@@ -19678,12 +19685,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "e565a7dbd7106e6c",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "2f466206b27babc1",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/use-cases/lead-gen": {
    "site": "RedTrack",
@@ -19704,12 +19712,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "38c9d4a716a10c9d",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "bee8449b001e0652",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/use-cases/media-buying-affiliates": {
    "site": "RedTrack",
@@ -19730,12 +19739,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "ebdb730024c3505a",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "d7a8cff913072601",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/use-cases/media-buying-operators": {
    "site": "RedTrack",
@@ -19756,12 +19766,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "37c14c2523d775af",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-10-08T00:00:00+00:00",
+   "fp": "ab3fd681032c7df2",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "redtrack.io/lp2/compare/redtrack-vs-anytrack": {
    "site": "RedTrack",
@@ -20134,7 +20145,7 @@
    "pub": "2026-09-08T09:25:17+00:00",
    "mod": null,
    "fp": "6e8ccacb7e6c2e4e",
-   "dates_checked": "2026-11-02T15:55:01+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
    "event": "2026-11-02T15:55:01+00:00",
    "bulk_pub": false,
@@ -20215,7 +20226,7 @@
    "pub": "2026-10-29T14:37:15+00:00",
    "mod": null,
    "fp": "2abefa0338e0ba6c",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:15+00:00",
    "bulk_type": "launch"
@@ -20402,7 +20413,7 @@
    "pub": "2026-10-29T14:37:16+00:00",
    "mod": null,
    "fp": "d146f7a9212efbf2",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:16+00:00",
    "bulk_type": "launch"
@@ -20429,7 +20440,7 @@
    "pub": "2026-10-29T14:37:24+00:00",
    "mod": null,
    "fp": "ad2f22b5d5772b81",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:24+00:00",
    "bulk_type": "launch"
@@ -20456,7 +20467,7 @@
    "pub": "2026-10-29T14:37:21+00:00",
    "mod": null,
    "fp": "e4507dbad4bfdf36",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:21+00:00",
    "bulk_type": "launch"
@@ -20483,7 +20494,7 @@
    "pub": "2026-10-29T14:37:17+00:00",
    "mod": null,
    "fp": "0d6bec7d84835fd4",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:17+00:00",
    "bulk_type": "launch"
@@ -20669,7 +20680,7 @@
    "pub": "2026-10-29T14:37:18+00:00",
    "mod": null,
    "fp": "96a58d83456338ed",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:18+00:00",
    "bulk_type": "launch"
@@ -20696,7 +20707,7 @@
    "pub": "2026-10-29T14:37:27+00:00",
    "mod": null,
    "fp": "3c5b6c5850579752",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:27+00:00",
    "bulk_type": "launch"
@@ -20775,7 +20786,7 @@
    "pub": "2026-10-29T14:37:38+00:00",
    "mod": null,
    "fp": "e2638786dc6b692f",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:38+00:00",
    "bulk_type": "launch"
@@ -20829,7 +20840,7 @@
    "pub": "2026-10-29T14:37:39+00:00",
    "mod": null,
    "fp": "849a4f4275b32633",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:39+00:00",
    "bulk_type": "launch"
@@ -20896,7 +20907,7 @@
    "pub": "2026-10-29T14:37:22+00:00",
    "mod": null,
    "fp": "e59acf3586ba004a",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:22+00:00",
    "bulk_type": "launch"
@@ -20923,7 +20934,7 @@
    "pub": "2026-10-29T14:37:24+00:00",
    "mod": null,
    "fp": "6c8b61eca7f7114b",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:24+00:00",
    "bulk_type": "launch"
@@ -21016,7 +21027,7 @@
    "pub": "2026-10-29T14:37:23+00:00",
    "mod": null,
    "fp": "fdffed2d43b98321",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:23+00:00",
    "bulk_type": "launch"
@@ -21095,7 +21106,7 @@
    "pub": "2026-10-29T14:37:26+00:00",
    "mod": null,
    "fp": "2f4b3d3507337787",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:26+00:00",
    "bulk_type": "launch"
@@ -21317,7 +21328,7 @@
    "pub": "2026-10-29T14:37:37+00:00",
    "mod": null,
    "fp": "3d2aa0a33096ce51",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:37+00:00",
    "bulk_type": "launch"
@@ -21591,7 +21602,7 @@
    "pub": "2026-10-29T14:37:37+00:00",
    "mod": null,
    "fp": "9cdabb6471907d2b",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:37+00:00",
    "bulk_type": "launch"
@@ -22009,7 +22020,7 @@
    "pub": "2026-10-29T14:37:19+00:00",
    "mod": null,
    "fp": "687ebded01e2a096",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:19+00:00",
    "bulk_type": "launch"
@@ -22248,7 +22259,7 @@
    "pub": "2026-10-29T14:37:35+00:00",
    "mod": null,
    "fp": "f2225eb1f52f83ea",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:35+00:00",
    "bulk_type": "launch"
@@ -22302,7 +22313,7 @@
    "pub": "2026-10-29T14:37:34+00:00",
    "mod": null,
    "fp": "3961acf600880fb8",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:34+00:00",
    "bulk_type": "launch"
@@ -22396,7 +22407,7 @@
    "pub": "2026-10-29T14:37:32+00:00",
    "mod": null,
    "fp": "f45e5d7fc0fce9bd",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:32+00:00",
    "bulk_type": "launch"
@@ -22436,7 +22447,7 @@
    "pub": "2026-10-29T14:37:31+00:00",
    "mod": null,
    "fp": "dbc3c23d04dacc77",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:31+00:00",
    "bulk_type": "launch"
@@ -22516,7 +22527,7 @@
    "pub": "2026-10-29T14:37:29+00:00",
    "mod": null,
    "fp": "9c8a65beceb71ac0",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:29+00:00",
    "bulk_type": "launch"
@@ -22569,7 +22580,7 @@
    "pub": "2026-10-29T14:37:30+00:00",
    "mod": null,
    "fp": "6cb58f9b2a8b60bb",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:30+00:00",
    "bulk_type": "launch"
@@ -22623,7 +22634,7 @@
    "pub": "2026-10-29T14:37:29+00:00",
    "mod": null,
    "fp": "57fbad37fa98234e",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:29+00:00",
    "bulk_type": "launch"
@@ -22650,7 +22661,7 @@
    "pub": "2026-10-29T14:37:28+00:00",
    "mod": null,
    "fp": "6a082ae37f9d05d0",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:28+00:00",
    "bulk_type": "launch"
@@ -22677,7 +22688,7 @@
    "pub": "2026-10-29T14:37:35+00:00",
    "mod": null,
    "fp": "e270c80196d6d682",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "bulk",
    "event": "2026-10-29T14:37:35+00:00",
    "bulk_type": "launch"
@@ -22769,7 +22780,7 @@
    "pub": "2026-07-10T08:31:58+00:00",
    "mod": "2026-09-08T09:25:17+00:00",
    "fp": "51cacd29eaae1de5",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
    "event": "2026-11-09T16:21:28+00:00",
    "fp_verified": true
@@ -22794,7 +22805,7 @@
    "pub": "2026-01-23T08:06:47+00:00",
    "mod": "2026-10-06T08:20:10+00:00",
    "fp": "057cdf7ac62e10dd",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
    "event": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
@@ -23446,7 +23457,7 @@
    "pub": null,
    "mod": null,
    "fp": "24f80f450fbc1c75",
-   "dates_checked": "2026-11-02T15:55:01+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
    "event": "2026-11-02T15:55:01+00:00",
    "bulk_pub": false,
@@ -23822,7 +23833,7 @@
    "url": "https://voluum.com/case-studies/",
    "title": "Affiliate Marketing Case Studies - Examples made by Voluum",
    "date": "2026-10-19T09:20:08+00:00",
-   "lastmod": "2026-11-03T09:36:14+00:00",
+   "lastmod": "2026-11-18T13:57:57+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": true,
@@ -23836,10 +23847,10 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "062a2f4ea977869e",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "fp": "3a660da98f7bee0b",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
-   "event": "2026-11-09T16:21:28+00:00",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
    "fp_verified": true
@@ -25360,7 +25371,7 @@
    "pub": null,
    "mod": "2026-10-01T12:09:13+00:00",
    "fp": "2cef36c96f265c78",
-   "dates_checked": "2026-11-02T15:55:01+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
    "event": "2026-11-02T15:55:01+00:00",
    "bulk_pub": false,
@@ -28170,12 +28181,13 @@
    "prog": null,
    "pub": "2026-09-03T00:00:00+00:00",
    "mod": null,
-   "fp": "4cbf61dcec21e3ea",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2026-09-03T00:00:00+00:00",
+   "fp": "e6850948b1a17ed4",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "triplewhale.com/moby-ai": {
    "site": "Triple Whale",
@@ -29539,7 +29551,7 @@
    "mod": null,
    "fp": "5a2b8d9dc29a8949",
    "dates_checked": "2026-10-22T03:03:30+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "event": "2026-10-08T00:00:00+00:00",
    "bulk_pub": false,
    "bulk_mod": false
@@ -30949,7 +30961,7 @@
    "pub": "2025-08-07T05:18:36+00:00",
    "mod": "2026-07-31T00:00:00+00:00",
    "fp": "e1bf05228df0ed12",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
    "event": "2026-07-31T00:00:00+00:00",
    "bulk_pub": false,
@@ -31933,7 +31945,7 @@
    "pub": "2022-07-14T15:40:39+00:00",
    "mod": "2026-09-24T00:00:00+00:00",
    "fp": "c299422be36613aa",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
    "event": "2026-09-24T00:00:00+00:00",
    "bulk_pub": false,
@@ -32500,7 +32512,7 @@
    "pub": "2026-02-03T16:08:05+00:00",
    "mod": "2026-08-21T00:00:00+00:00",
    "fp": "4aa116dc9e9b4155",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
    "event": "2026-08-21T00:00:00+00:00"
   },
@@ -35741,7 +35753,7 @@
    "pub": "2024-04-01T14:36:43+00:00",
    "mod": "2024-04-01T14:36:43+00:00",
    "fp": "3db2749d30205dee",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "unknown",
    "event": "2024-04-01T14:36:43+00:00",
    "bulk_pub": false,
@@ -36718,7 +36730,7 @@
    "pub": "2026-03-24T15:06:10+00:00",
    "mod": "2026-08-20T00:00:00+00:00",
    "fp": "bc62b8c80c0341b1",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "updated",
    "event": "2026-08-20T00:00:00+00:00"
   },
@@ -41350,14 +41362,20 @@
    "site": "Northbeam",
    "url": "https://www.northbeam.io/data-processing-addendum",
    "title": "Data processing addendum",
-   "date": "2026-06-17T20:34:25+00:00",
-   "lastmod": "2026-06-17T20:34:25+00:00",
+   "date": "2026-11-20T20:16:44+00:00",
+   "lastmod": "2026-11-20T20:16:44+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-11-20T00:00:00+00:00",
+   "mod": null,
+   "fp": "fb7492a26f936ba2",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "new",
+   "event": "2026-11-20T00:00:00+00:00"
   },
   "northbeam.io/gdpr": {
    "site": "Northbeam",
@@ -41712,7 +41730,7 @@
    "pub": "2026-11-12T00:00:00+00:00",
    "mod": null,
    "fp": "ac6ac45297a4b692",
-   "dates_checked": "2026-11-16T15:48:30+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "new",
    "event": "2026-11-12T00:00:00+00:00"
   },
@@ -41788,7 +41806,7 @@
    "pub": null,
    "mod": null,
    "fp": "74e64b4189da7e6f",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "unknown",
    "event": "2026-10-15T21:35:43+00:00",
    "bulk_pub": false,
@@ -41866,7 +41884,7 @@
    "pub": null,
    "mod": null,
    "fp": "e60d3cc0c09197c7",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "unknown",
    "event": "2026-10-15T21:35:22+00:00",
    "bulk_pub": false,
@@ -41944,7 +41962,7 @@
    "pub": null,
    "mod": null,
    "fp": "c0024632c3d0babb",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "unknown",
    "event": "2026-10-15T21:35:12+00:00",
    "bulk_pub": false,
@@ -42020,7 +42038,7 @@
    "url": "https://www.northbeam.io/features/clicks-and-deterministic-views",
    "title": "Clicks + Deterministic Views",
    "date": "2026-09-09T15:47:56+00:00",
-   "lastmod": "2026-09-09T15:47:56+00:00",
+   "lastmod": "2026-11-21T00:05:13+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
    "cls": {
     "is_content": true,
@@ -42035,7 +42053,7 @@
    "pub": null,
    "mod": null,
    "fp": "10b8b5d0aa1b515d",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "unknown",
    "event": "2026-09-09T15:47:56+00:00",
    "bulk_pub": false,
@@ -42152,7 +42170,7 @@
    "pub": null,
    "mod": null,
    "fp": "e649f6087e0af7a8",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "unknown",
    "event": "2026-10-15T21:38:50+00:00",
    "bulk_pub": false,
@@ -42423,7 +42441,7 @@
   "northbeam.io/archive/subprocessors-jun-21-2024-update": {
    "site": "Northbeam",
    "url": "https://www.northbeam.io/archive/subprocessors-jun-21-2024-update",
-   "title": "Subprocessors jun 21 2024 update",
+   "title": "Subprocessors (Jun 21 2024 Update)",
    "date": "2026-11-12T23:38:47+00:00",
    "lastmod": "2026-11-12T23:38:47+00:00",
    "first_seen": "2026-10-22T03:03:30+00:00",
@@ -42435,7 +42453,7 @@
    "pub": "2024-06-21T00:00:00+00:00",
    "mod": null,
    "fp": "128084772dc83bb1",
-   "dates_checked": "2026-11-16T15:48:30+00:00",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "kind": "unknown",
    "event": "2024-06-21T00:00:00+00:00"
   },
@@ -43578,12 +43596,13 @@
    "prog": null,
    "pub": "2025-11-07T00:00:00+00:00",
    "mod": null,
-   "fp": "b49b5b59ac898a6b",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2025-11-07T00:00:00+00:00",
+   "fp": "230ef1ee4797221e",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "northbeam.io/blog/the-definitive-northbeam-guide-to-q5": {
    "site": "Northbeam",
@@ -43942,12 +43961,13 @@
    "prog": null,
    "pub": "2025-10-31T00:00:00+00:00",
    "mod": null,
-   "fp": "05b2859603f5d19d",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2025-10-31T00:00:00+00:00",
+   "fp": "6aa1ddc3e3170392",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "northbeam.io/blog/why-new-customer-roas-matters-more-than-blended-metrics": {
    "site": "Northbeam",
@@ -43968,12 +43988,13 @@
    "prog": null,
    "pub": "2025-11-26T00:00:00+00:00",
    "mod": null,
-   "fp": "9f40383e5101e230",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
-   "kind": "unknown",
-   "event": "2025-11-26T00:00:00+00:00",
+   "fp": "ada1071eac6c2448",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "northbeam.io/blog/why-you-should-care-about-mta-mmm-and-incrementality": {
    "site": "Northbeam",
@@ -44316,15 +44337,16 @@
     "why": "Helps performance marketers debug tracking issues and validate AnyTrack's advantage."
    },
    "baseline": false,
-   "kind": "new",
-   "event": "2026-11-02T15:55:01+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "prog": null,
    "pub": "2026-11-02T00:20:00+00:00",
    "mod": "2026-11-02T00:20:00+00:00",
-   "fp": "3154322671cd8607",
-   "dates_checked": "2026-11-02T15:55:01+00:00",
+   "fp": "c143c69f9d806c1d",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "anytrack.io/blog/send-gohighlevel-pipeline-stages-to-meta-and-google-ads": {
    "site": "AnyTrack",
@@ -44394,15 +44416,16 @@
     "why": "Shows buyers exactly how to implement server-side tracking for affiliate campaigns across ad platforms."
    },
    "baseline": false,
-   "kind": "new",
-   "event": "2026-11-02T15:55:01+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "prog": null,
    "pub": "2026-10-30T00:00:00+00:00",
    "mod": "2026-10-30T00:00:00+00:00",
-   "fp": "12b20e676e9f6287",
-   "dates_checked": "2026-11-02T15:55:01+00:00",
+   "fp": "a3f14ae657f4c35d",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "hyros.com/pricing-ai-tracking-build": {
    "site": "Hyros",
@@ -44449,14 +44472,15 @@
    },
    "baseline": false,
    "kind": "updated",
-   "event": "2026-11-07T09:00:00+00:00",
+   "event": "2026-11-23T18:10:26+00:00",
    "prog": null,
    "pub": "2026-10-22T09:00:00+00:00",
    "mod": "2026-11-07T09:00:00+00:00",
-   "fp": "1990dc8d62fec185",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "fp": "8f1fa9a36b655739",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "anytrack.io/blog/data-driven-attribution-google-ads-ga4": {
    "site": "AnyTrack",
@@ -44475,14 +44499,15 @@
    },
    "baseline": false,
    "kind": "updated",
-   "event": "2026-10-31T09:00:00+00:00",
+   "event": "2026-11-23T18:10:26+00:00",
    "prog": null,
    "pub": "2026-08-16T11:07:00+00:00",
    "mod": "2026-10-31T09:00:00+00:00",
-   "fp": "06e00ab77bd04672",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "fp": "8d86bb0f3319159b",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "anytrack.io/blog/redtrack-vs-voluum-clickbank": {
    "site": "AnyTrack",
@@ -44526,15 +44551,16 @@
     "why": "Educates performance marketers on their tracking solution's technical capabilities and differentiators."
    },
    "baseline": false,
-   "kind": "new",
-   "event": "2026-11-09T16:21:28+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "a151a22f16271a69",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "fp": "a43f3f93febdb897",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "hyros.com/pricing-ai-tracking-simple": {
    "site": "Hyros",
@@ -44630,22 +44656,23 @@
     "why": "Demonstrates ROI and ROAS gains to convince buyers ready to choose."
    },
    "baseline": false,
-   "kind": "new",
-   "event": "2026-11-09T16:21:28+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "prog": null,
    "pub": null,
    "mod": "2026-11-03T09:36:14+00:00",
-   "fp": "bd1f47748c460adf",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "fp": "c94f67d524549532",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "voluum.com/case-studies/dbit-marketing": {
    "site": "Voluum",
    "url": "https://voluum.com/case-studies/dbit-marketing/",
    "title": "Dbit Marketing - Case Study",
    "date": "2026-11-09T13:36:56+00:00",
-   "lastmod": "2026-11-09T13:36:56+00:00",
+   "lastmod": "2026-11-18T13:57:57+00:00",
    "first_seen": "2026-11-09T16:21:28+00:00",
    "cls": {
     "is_content": true,
@@ -44656,16 +44683,16 @@
     "why": "Shows concrete ROI gains to convince buyers Voluum solves agency scaling problems."
    },
    "baseline": false,
-   "kind": "new",
-   "event": "2026-11-09T16:21:28+00:00",
+   "kind": "updated",
+   "event": "2026-11-23T18:10:26+00:00",
    "prog": null,
    "pub": null,
    "mod": "2026-11-09T13:36:56+00:00",
-   "fp": "27aa4a9a80adbd20",
-   "dates_checked": "2026-11-09T16:21:28+00:00",
+   "fp": "b8cb4b3cd23aad54",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "fp_verified": true
   },
   "triplewhale.com/blog/ai-model-by-use-case": {
    "site": "Triple Whale",
@@ -44692,7 +44719,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "triplewhale.com/blog/ai-interview-questions": {
    "site": "Triple Whale",
@@ -44719,7 +44747,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "triplewhale.com/blog/triple-whale-vs-haus": {
    "site": "Triple Whale",
@@ -44746,7 +44775,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "triplewhale.com/blog/how-to-reduce-cpa": {
    "site": "Triple Whale",
@@ -44773,7 +44803,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "triplewhale.com/blog/tiktok-cpm": {
    "site": "Triple Whale",
@@ -44800,7 +44831,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "triplewhale.com/blog/amazon-big-deal-days-2026-benchmarks": {
    "site": "Triple Whale",
@@ -44827,7 +44859,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "triplewhale.com/blog/meta-ads-in-moby": {
    "site": "Triple Whale",
@@ -44854,7 +44887,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "triplewhale.com/blog/moby-updates-october-2026": {
    "site": "Triple Whale",
@@ -44881,7 +44915,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "triplewhale.com/blog/triple-whale-product-updates-oct-2026": {
    "site": "Triple Whale",
@@ -44908,7 +44943,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "triplewhale.com/blog/6-advanced-strategies-ltv-and-retention": {
    "site": "Triple Whale",
@@ -44935,7 +44971,8 @@
    "dates_checked": "2026-11-09T16:21:28+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-16T15:48:30+00:00"
+   "missing_since": "2026-11-16T15:48:30+00:00",
+   "removed": "2026-11-23T18:10:26+00:00"
   },
   "hyros.com/pricing-build-test": {
    "site": "Hyros",
@@ -45274,6 +45311,177 @@
    "dates_checked": "2026-11-16T15:48:30+00:00",
    "bulk_pub": false,
    "bulk_mod": false
+  },
+  "hyros.com/ecommerce": {
+   "site": "Hyros",
+   "url": "https://hyros.com/ecommerce",
+   "title": "Track Ads Accurately For Your E-Commerce Business - Hyros",
+   "date": "2026-11-23T18:10:26+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-23T18:10:26+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-23T18:10:26+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "954b4379699a17a4",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "hyros.com/saas": {
+   "site": "Hyros",
+   "url": "https://hyros.com/saas",
+   "title": "SaaS Attribution & Ad Tracking Software - HYROS",
+   "date": "2026-11-23T18:10:26+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-23T18:10:26+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-23T18:10:26+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "a481095db4e14e05",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "hyros.com/info-education": {
+   "site": "Hyros",
+   "url": "https://hyros.com/info-education",
+   "title": "Education & Info Ad Tracking Software - HYROS",
+   "date": "2026-11-23T18:10:26+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-23T18:10:26+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-23T18:10:26+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "dcab41c20d8e18a1",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "hyros.com/call-tracking": {
+   "site": "Hyros",
+   "url": "https://hyros.com/call-tracking",
+   "title": "Call Attribution Tracking For Your Funnels & Ads - Hyros",
+   "date": "2026-11-23T18:10:26+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-23T18:10:26+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-23T18:10:26+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "8acf6996a6a24b57",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "hyros.com/swarm-data": {
+   "site": "Hyros",
+   "url": "https://hyros.com/swarm-data",
+   "title": "What Is AI Swarm Data â Hyros",
+   "date": "2026-11-23T18:10:26+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-23T18:10:26+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-23T18:10:26+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "1b458a80faec4f8e",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "hyros.com/swarm-ad-tracking": {
+   "site": "Hyros",
+   "url": "https://hyros.com/swarm-ad-tracking",
+   "title": "What Is AI Swarm Data â Hyros",
+   "date": "2026-11-23T18:10:26+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-23T18:10:26+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-23T18:10:26+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "f9d01601b4bc612f",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "hyros.com/black-friday-2026": {
+   "site": "Hyros",
+   "url": "https://hyros.com/black-friday-2026",
+   "title": "The Best Ad Tracking & Attribution Software - Hyros",
+   "date": "2026-11-23T18:10:26+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-23T18:10:26+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-23T18:10:26+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "38b35a4acc56d441",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "hyros.com/product-tour": {
+   "site": "Hyros",
+   "url": "https://hyros.com/product-tour",
+   "title": "HYROS Product Tour â How Our Data Grows Your Ad ROI",
+   "date": "2026-11-23T18:10:26+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-23T18:10:26+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-23T18:10:26+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "b02be6d69feb5285",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "northbeam.io/archive/data-processing-addendum-apr-17-2026-update": {
+   "site": "Northbeam",
+   "url": "https://www.northbeam.io/archive/data-processing-addendum-apr-17-2026-update",
+   "title": "Data Processing Addendum (Apr 17 2026 Update)",
+   "date": "2026-11-20T20:15:24+00:00",
+   "lastmod": "2026-11-20T20:15:24+00:00",
+   "first_seen": "2026-11-23T18:10:26+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "unknown",
+   "event": "2026-04-17T00:00:00+00:00",
+   "prog": null,
+   "pub": "2026-04-17T00:00:00+00:00",
+   "mod": null,
+   "fp": "d19caff4b2773347",
+   "dates_checked": "2026-11-23T18:10:26+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
   }
  },
  "sites": {
@@ -45283,7 +45491,7 @@
   },
   "Hyros": {
    "initialized": true,
-   "count": 147
+   "count": 86
   },
   "RedTrack": {
    "initialized": true,
@@ -45291,7 +45499,7 @@
   },
   "Voluum": {
    "initialized": true,
-   "count": 320
+   "count": 321
   },
   "Triple Whale": {
    "initialized": true,
@@ -45299,7 +45507,7 @@
   },
   "Northbeam": {
    "initialized": true,
-   "count": 210
+   "count": 211
   }
  },
  "repo": "nico497/Anytrack",

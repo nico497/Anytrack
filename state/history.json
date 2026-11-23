@@ -239,6 +239,54 @@
      "pages": 210
     }
    }
+  },
+  {
+   "week": "2026-W48",
+   "date": "2026-11-23T18:10:26+00:00",
+   "sites": {
+    "AnyTrack": {
+     "new": 0,
+     "updated": 5,
+     "removed": 0,
+     "pages": 1042
+    },
+    "Hyros": {
+     "new": 8,
+     "updated": 0,
+     "removed": 0,
+     "pages": 155
+    },
+    "RedTrack": {
+     "new": 0,
+     "updated": 12,
+     "removed": 0,
+     "pages": 361
+    },
+    "Voluum": {
+     "new": 0,
+     "updated": 3,
+     "removed": 0,
+     "pages": 321
+    },
+    "ClickMagick": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Triple Whale": {
+     "new": 0,
+     "updated": 1,
+     "removed": 10,
+     "pages": 870
+    },
+    "Northbeam": {
+     "new": 1,
+     "updated": 3,
+     "removed": 0,
+     "pages": 211
+    }
+   }
   }
  ]
 }
